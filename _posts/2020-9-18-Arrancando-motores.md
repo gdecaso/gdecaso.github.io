@@ -8,3 +8,4 @@ Hace un par de meses que vengo escribiendo sobre [#CuriosidadesEspaciales en Twi
 El propósito de este blog, en principio, será recopilar los hilos que escribo en Twitter para que sean más fáciles de encontrar desde un único sitio.
 
 En estos días estaré subiendo de manera retroactiva los hilos anteriores. Y, a partir de entonces, todo hilo nuevo se verá reflejado aquí también.
+    
