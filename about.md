@@ -4,6 +4,8 @@ title: Acerca de mí
 permalink: /about/
 ---
 
+<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
 Mi nombre es Guido de Caso y desde que tengo recuerdo que el mundo de la exploración espacial me fascina.
 
 Hace unos pocos años me puse más serio al respecto y empecé a investigar sobre la historia de la exploración espacial, a modo de hobby. Me resulta apasionante como se entrecruzan las biografías de grandes personas, las cuestiones geopolíticas, la teconología y la ciencia. 
