@@ -11,21 +11,6 @@ categories: "CuriosidadesEspaciales"
 <br />
 <br />
 <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a> temporada 1, episodio 3: un motor increíble <span class="entity-image"><a href="https://pbs.twimg.com/media/EewyaRsWsAAClJe.png" target="_blank"><img alt="" src="https://pbs.twimg.com/media/EewyaRsWsAAClJe.png" data-src="https://pbs.twimg.com/media/EewyaRsWsAAClJe.png"></a></span></p>
-    <p><span class="nop nop-start">2. </span> [voz en off] Previamente en <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a>…<br />
-<br />
-<br />
-<br />
-Episodio 1: 👩‍🚀 Piloto<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290418833040310279">https://twitter.com/guidodecaso/status/1290418833040310279</a></blockquote></span></span><br />
-<br />
-<br />
-<br />
-Episodio 2: 🛰️ Los rusos golpean primero<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290770767249133568">https://twitter.com/guidodecaso/status/1290770767249133568</a></blockquote></span></span><br />
-<br />
-<br />
-<br />
-(omitir intro, al mejor estilo <a class="entity-mention" href="https://twitter.com/periodistan_">@periodistan_</a> )</p>
     <p><span class="nop nop-start">3. </span> Décadas de guerra fría, carrera armamentística, carrera a la Luna… Tras la caída del bloque soviético, la colaboración entre EEUU y Rusia en la Estación Espacial Internacional es una bocanada de aire fresco. <span class="entity-image"><a href="https://pbs.twimg.com/media/EewymWFX0AAi6hq.png" target="_blank"><img alt="" src="https://pbs.twimg.com/media/EewymWFX0AAi6hq.png" data-src="https://pbs.twimg.com/media/EewymWFX0AAi6hq.png"></a></span></p>
     <p><span class="nop nop-start">4. </span> Otra sociedad ruso/yanqui, mucho más profunda pero menos publicitada es la que nos ocupa en este hilo. Una sociedad forjada hace un cuarto de siglo y que aún perdura. <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/Ee0q44gWAAATf6r.jpg"><source src="https://video.twimg.com/tweet_video/Ee0q44gWAAATf6r.mp4" type="video/mp4"><img alt="Handshake Of The Gods GIF" src="https://pbs.twimg.com/tweet_video_thumb/Ee0q44gWAAATf6r.jpg"></video></span></p>
     <p><span class="nop nop-start">5. </span> Para entender cómo nació esta sociedad, tenemos que volver a Valentin Glushko. El mismo que traicionó a nuestro querido Sergei Korolev en el episodio 2 de esta epopeya. Tras la muerte de Sergei, Valentin quedó a cargo de la cohetería soviética. <a class="entity-hashtag" href="/hashtag/TeamSerrucho">#TeamSerrucho</a></p>

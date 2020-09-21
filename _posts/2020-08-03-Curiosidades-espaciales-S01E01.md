@@ -1,5 +1,5 @@
 ---
-title: "#CuriosidadesEspaciales S01E03: Piloto"
+title: "#CuriosidadesEspaciales S01E01: Piloto"
 categories: "CuriosidadesEspaciales"
 ---
 

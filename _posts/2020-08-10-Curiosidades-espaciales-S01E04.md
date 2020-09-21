@@ -9,18 +9,6 @@ categories: "CuriosidadesEspaciales"
     <p>¿Qué tienen en común el GPS, el efecto Doppler, Los Redondos, Fidel Castro y la Exploración Espacial?<br />
 <br />
 <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a> temporada 1, episodio 4: Aquella solitaria vaca Cubana <span class="entity-image"><a href="https://pbs.twimg.com/media/EfEQ46HXYAIsNKO.jpg" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfEQ46HXYAIsNKO.jpg" data-src="https://pbs.twimg.com/media/EfEQ46HXYAIsNKO.jpg"></a></span></p>
-    <p>[voz en off] Previamente en <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a>…<br />
-<br />
-Episodio 1: 👩‍🚀 Piloto<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290418833040310279">https://twitter.com/guidodecaso/status/1290418833040310279</a></blockquote></span></span><br />
-<br />
-Episodio 2: 🛰️ Los rusos golpean primero<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290770767249133568">https://twitter.com/guidodecaso/status/1290770767249133568</a></blockquote></span></span><br />
-<br />
-Episodio 3: ⚙️ Un motor increíble<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1291735815564009472">https://twitter.com/guidodecaso/status/1291735815564009472</a></blockquote></span></span><br />
-<br />
-(omitir intro, al mejor estilo <a class="entity-mention" href="https://twitter.com/periodistan_">@periodistan_</a>)</p>
     <p><span class="nop nop-start">1) </span> Viernes 11 de noviembre de 1960. La tarde transcurre tranquila en las afueras de Holguín, Cuba. Corre una suave brisa desde el norte. Trae un dejo de un mar caribe no tan lejano. Unas vacas pastan tranquilas 🐄🐮.</p>
     <p><span class="nop nop-start">2) </span> La brisa ahora trae un silbido. En un instante caen algunos retazos de metal. Varios cilindros sueltos y una esfera. Se clavan en la tierra seca, calientes. Otros metales explotan al caer 💥. La metralla impacta en Rufina, una de las vacas. La escena es dantesca. <span class="entity-image"><a href="https://pbs.twimg.com/media/EfEQ7jBXgAgobjX.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfEQ7jBXgAgobjX.png" data-src="https://pbs.twimg.com/media/EfEQ7jBXgAgobjX.png"></a></span></p>
     <p><span class="nop nop-start">3) </span> Para entender qué pasó nos subimos al DeLorean y vamos al año ’57. El Sputnik acaba de ser lanzado por los soviéticos. Los físicos William Guier y George Weiffenbach de la universidad Johns Hopkins conversan sobre las ondas de radio que este emite. 📻 <span class="row justify-content-center entity-multiple-2"><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/EfEQ9YkXkAMITti.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfEQ9YkXkAMITti.png" data-src="https://pbs.twimg.com/media/EfEQ9YkXkAMITti.png"></a></span></span><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/EfEQ-CmXgAENx0K.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfEQ9YkXkAMITti.png" data-src="https://pbs.twimg.com/media/EfEQ-CmXgAENx0K.png"></a></span></span></span></p>
