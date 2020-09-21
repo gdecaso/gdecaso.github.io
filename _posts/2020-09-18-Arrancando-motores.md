@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Arrancando motores!
+categories: Personal
 ---
 
 Hace un par de meses que vengo escribiendo sobre [#CuriosidadesEspaciales en Twitter](https://twitter.com/guidodecaso). Sin embargo, esa plataforma no es la ideal para encontrar contenido antíguo o tener un índice de lo que fui publicando en el tiempo.

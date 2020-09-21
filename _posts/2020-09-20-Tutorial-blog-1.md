@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Tutorial: cómo armar un blog con GitHub pages (parte 1)"
+categories: Tutoriales
 ---
 
 Hace pocos días que arranqué este proyecto de blog personal y durante el proceso tuve que luchar contra algunos demonios. Aquí les comparto el tutorial que me hubiera gustado encontrar antes de arrancar mi proyecto.
@@ -34,6 +34,10 @@ Vamos a la configuración del repositorio y buscamos la opción para renombrarlo
 
 Debemos poner como nombre de repositorio `[usuario].github.io`. Por ejemplo `miblog.github.io`, si es que `miblog` es tu nombre de usuario en GitHub, claro está.
 ![Fork](/images/2020-09-20/02-rename.png)
+
+Mientras estamos en la configuración de nuestro repositorio, también podemos asegurarnos de que la configuración de la GitHub Page está activada. Esta sección nos permite elegir desde que *branch* queremos servir nuestra página y no olvidar de activar el último checkbox, relativo a HTTPS.
+![Fork](/images/2020-09-20/02b-settings.png)
+(Ignorar por ahora la parte del `Custom domain`. La veremos en la segunda parte.)
 
 ## Paso 1.2. Clonando nuestro fork
 En este paso, vamos a clonar nuestro fork para tenerlo localmente en nuestra compu.
@@ -214,3 +218,5 @@ Una vez que tu commit ya esté en GitHub, deberías poder navegar a `https://[us
 En este punto ya tenés un blog servido con alta disponibilidad por GitHub. Para crear nuevos posts sólo basta que crees un archivo `_posts/yyyy-mm-dd-titulo.md` con el *front matter* como vimos y el contenido en Markdown y hagas un *commit & push* a GitHub.
 
 Si no te molesta tener un dominio como `[usuario].github.io` entonces con esta primera parte del tutorial ya deberías tener todo lo necesario. En la segunda parte nos enfocaremos en configurar tu blog para que use un dominio propio como por ejemplo `miblog.com.ar` o `miblog.ar`.
+
+**Editado:** Ya pueden ver la [parte 2 del tutorial]({% post_url 2020-09-21-Tutorial-blog-2 %}).
