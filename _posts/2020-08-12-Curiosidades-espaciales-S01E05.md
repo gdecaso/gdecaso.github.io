@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E05: El silo volador de Texas"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodio de #CuriosidadesEspaciales te cuento sobre la fábrica de cohetes que levantó SpaceX en el medio de la nada en el estado de Texas, a pasitos del borde mejicano.
 
 <div class="card-tweets" dir="auto">
     <p>A pasitos del borde entre EEUU y México se erigen placas de metal. ¿Se trata del famoso muro de <a class="entity-mention" href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a>?<br />
@@ -10,19 +10,6 @@ title: Post en construcción # TODO
 No, es el nuevo puerto espacial de SpaceX desde donde quizás algún día vayamos a Marte.<br />
 <br />
 <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a> temporada 1, ep 5: El silo volador de Texas 🚜🌵 <span class="entity-image"><a href="https://pbs.twimg.com/media/EfPED3PX0AItwHK.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfPED3PX0AItwHK.png" data-src="https://pbs.twimg.com/media/EfPED3PX0AItwHK.png"></a></span></p>
-    <p>[voz en off] Previamente en <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a>…<br />
-<br />
-Ep 1: 👩‍🚀 Piloto<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290418833040310279">https://twitter.com/guidodecaso/status/1290418833040310279</a></blockquote></span></span><br />
-<br />
-Ep 2: 🛰️ Los rusos golpean primero<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290770767249133568">https://twitter.com/guidodecaso/status/1290770767249133568</a></blockquote></span></span><br />
-<br />
-Ep 3: ⚙️ Un motor increíble<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1291735815564009472">https://twitter.com/guidodecaso/status/1291735815564009472</a></blockquote></span></span><br />
-<br />
-Ep 4: 🐮 Aquella solitaria vaca cubana<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1292833934716411908">https://twitter.com/guidodecaso/status/1292833934716411908</a></blockquote></span></span></p>
     <p><span class="nop nop-start">1) </span> Boca Chica, Texas, Estados Unidos. Apenas a 5 km de distancia del límite con México y a pasitos del océano. 4 de agosto de 2020, 18:57 hora local.<br />
 <br />
 La tranquilidad de la tarde se ve interrumpida por un fogonazo que parece venir desde un silo de esos que guardan granos. 🔥 <span class="entity-image"><a href="https://pbs.twimg.com/media/EfPEKYWWAAMrvwP.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfPEKYWWAAMrvwP.png" data-src="https://pbs.twimg.com/media/EfPEKYWWAAMrvwP.png"></a></span></p>
@@ -66,6 +53,5 @@ Con esto cerramos el 5to episodio de <a class="entity-hashtag" href="/hashtag/Cu
     <p>Addendum: SpaceX ayer anunció que su motor Raptor logró operar a 330 bar durante una prueba en tierra. 🤯<br />
 <br />
 <a class="entity-url" data-preview="true" href="https://www.teslarati.com/spacex-raptor-engine-crushes-russian-record/">teslarati.com/spacex-raptor-…</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

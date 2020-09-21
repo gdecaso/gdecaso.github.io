@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E06: Los kiwis voladores"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodio de #CuriosidadesEspaciales te cuento sobre la empresa neozelandesa que está revolucionando el mercado de lanzadores espaciales de pequeño porte.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> El pueblo lo pide, este humilde servidor cumple.<br />
@@ -10,17 +10,6 @@ title: Post en construcción # TODO
 En el <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a> de hoy: una base de villano Bond, helicópteros que atrapan cohetes, impresión 3D, una bola disco, un cohete en Maorí y homenajes a Curie y Rutheford.<br />
 <br />
 <a class="entity-mention" href="https://twitter.com/RocketLab">@RocketLab</a>: los kiwis voladores 🥝. <span class="entity-video-gif"><video autoplay muted loop controls poster="https://pbs.twimg.com/tweet_video_thumb/EfaVTN1XkAAKYuI.jpg"><source src="https://video.twimg.com/tweet_video/EfaVTN1XkAAKYuI.mp4" type="video/mp4"><img alt="Run Kiwi GIF" src="https://pbs.twimg.com/tweet_video_thumb/EfaVTN1XkAAKYuI.jpg"></video></span></p>
-    <p><span class="nop nop-start">2/ </span> Previamente:<br />
-Ep1) 👩‍🚀Piloto<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290418833040310279">https://twitter.com/guidodecaso/status/1290418833040310279</a></blockquote></span></span><br />
-Ep2) 🛰️Los rusos golpean primero<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290770767249133568">https://twitter.com/guidodecaso/status/1290770767249133568</a></blockquote></span></span><br />
-Ep3) ⚙️Un motor increíble<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1291735815564009472">https://twitter.com/guidodecaso/status/1291735815564009472</a></blockquote></span></span><br />
-Ep4) 🐮Aquella solitaria vaca cubana<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1292833934716411908">https://twitter.com/guidodecaso/status/1292833934716411908</a></blockquote></span></span><br />
-Ep5) 🤠El silo volador de Texas<br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1293607594540638211">https://twitter.com/guidodecaso/status/1293607594540638211</a></blockquote></span></span></p>
     <p><span class="nop nop-start">3/ </span> En esta ocasión nos vamos a la Península Mahia en la costa este de la Isla Norte de Nueva Zelandia 🇳🇿.<br />
 <br />
 Vamos a visitar el complejo de lanzamiento de la empresa RocketLab. Si yo fuera un satélite a punto de abandonar este planeta... ¡qué mejor que irme con esa última imagen! <span class="entity-image"><a href="https://pbs.twimg.com/media/EfaNgfBXYAYjeIn.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfaNgfBXYAYjeIn.png" data-src="https://pbs.twimg.com/media/EfaNgfBXYAYjeIn.png"></a></span></p>

@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E08: Durmiendo en la Luna"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodiode #CuriosidadesEspaciales te cuento sobre las dificultades que tuvieron los astronautas de la misión Apollo 11 a la hora de dormir.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> Imaginate que terminó el día más importante de tu vida. Difícil mimir, ¿no?<br />
@@ -11,14 +11,6 @@ title: Post en construcción # TODO
 ¿Y si hay incesante ruido, luces y polvo tóxico por todos lados?<br />
 <br />
 <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a> temporada 1 episodio 8: Durmiendo en la Luna 💤🌙 <span class="entity-video-gif"><video autoplay muted loop controls poster="https://pbs.twimg.com/tweet_video_thumb/Ef5PSCwXgAAb8YO.jpg"><source src="https://video.twimg.com/tweet_video/Ef5PSCwXgAAb8YO.mp4" type="video/mp4"><img alt="Pato Donald Se Va A Dormir GIF" src="https://pbs.twimg.com/tweet_video_thumb/Ef5PSCwXgAAb8YO.jpg"></video></span></p>
-    <p><span class="nop nop-start">2/ </span> Previamente:<br />
-Ep1) 👩‍🚀<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290418833040310279">https://twitter.com/guidodecaso/status/1290418833040310279</a></blockquote></span></span><br />
-Ep2) 🛰️<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290770767249133568">https://twitter.com/guidodecaso/status/1290770767249133568</a></blockquote></span></span><br />
-Ep3) ⚙️<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1291735815564009472">https://twitter.com/guidodecaso/status/1291735815564009472</a></blockquote></span></span><br />
-Ep4) 🐮<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1292833934716411908">https://twitter.com/guidodecaso/status/1292833934716411908</a></blockquote></span></span><br />
-Ep5) 🤠<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1293607594540638211">https://twitter.com/guidodecaso/status/1293607594540638211</a></blockquote></span></span><br />
-Ep6) 🥝<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1294386109233934337">https://twitter.com/guidodecaso/status/1294386109233934337</a></blockquote></span></span><br />
-Ep7) 🚮<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1295700708201844742">https://twitter.com/guidodecaso/status/1295700708201844742</a></blockquote></span></span></p>
     <p><span class="nop nop-start">3/ </span> El 20 de julio de 1969 el módulo lunar Eagle lleva a los primeros seres vivos a la Luna. Atrás quedaban 4 días de viaje y casi 400 mil km. 👨‍🚀👨‍🚀🚀🌕<br />
 <br />
 <a class="entity-mention" href="https://twitter.com/EnelcaminoTN">@EnelcaminoTN</a>, un poroto...</p>
@@ -77,6 +69,5 @@ Eso sí, como había poco espacio, tuvieron que ponerse creativos con una ubicac
 <a class="entity-url" data-preview="true" href="https://www.seattletimes.com/nation-world/apollo-11-astronauts-were-sleepless-in-the-sea-of-tranquility-on-moon/">seattletimes.com/nation-world/a…</a><br />
 <a class="entity-url" data-preview="true" href="https://history.nasa.gov/SP-4029/Apollo_11i_Timeline.htm">history.nasa.gov/SP-4029/Apollo…</a><br />
 <a class="entity-url" data-preview="true" href="https://www.smithsonianmag.com/smart-news/first-meal-eaten-moon-was-bacon-180950457/">smithsonianmag.com/smart-news/fir…</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

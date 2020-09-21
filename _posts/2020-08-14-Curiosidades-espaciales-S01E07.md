@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E07: Chatarra espacial"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodio de #CuriosidadesEspaciales te cuento sobre la problemática de la basura en órbita, y las dificultades para la astronomía por culpa del proyecto Starlink.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> En el film Gravity (2013) Sandra Bullock y George Clooney venían pisteando como unos campeones y de pronto… pasaron cosas 👩‍🚀👨‍🚀🚀🛰💥. <br />
@@ -10,13 +10,6 @@ title: Post en construcción # TODO
 MythBusters... ¿Podría algo similar pasar en la vida real? <br />
 <br />
 <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a>, temporada 1, episodio 7: chatarra espacial 🚮. <span class="entity-video-gif"><video autoplay muted loop controls poster="https://pbs.twimg.com/tweet_video_thumb/EfpzBXdWsAEMWqo.jpg"><source src="https://video.twimg.com/tweet_video/EfpzBXdWsAEMWqo.mp4" type="video/mp4"><img alt="Video Poster" src="https://pbs.twimg.com/tweet_video_thumb/EfpzBXdWsAEMWqo.jpg"></video></span></p>
-    <p><span class="nop nop-start">2/ </span> Previamente:<br />
-Ep1) 👩‍🚀<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290418833040310279">https://twitter.com/guidodecaso/status/1290418833040310279</a></blockquote></span></span><br />
-Ep2) 🛰️<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290770767249133568">https://twitter.com/guidodecaso/status/1290770767249133568</a></blockquote></span></span><br />
-Ep3) ⚙️<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1291735815564009472">https://twitter.com/guidodecaso/status/1291735815564009472</a></blockquote></span></span><br />
-Ep4) 🐮<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1292833934716411908">https://twitter.com/guidodecaso/status/1292833934716411908</a></blockquote></span></span><br />
-Ep5) 🤠<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1293607594540638211">https://twitter.com/guidodecaso/status/1293607594540638211</a></blockquote></span></span><br />
-Ep6) 🥝<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1294386109233934337">https://twitter.com/guidodecaso/status/1294386109233934337</a></blockquote></span></span></p>
     <p><span class="nop nop-start">3/ </span> Al momento en que sale este tweet, hay unos 2666 satélites* artificiales activos orbitando nuestro planeta.<br />
 <br />
 *: al momento en que lo leas, quizás ya haya unos 61 más 🚀(<a class="entity-url" data-preview="true" href="https://everydayastronaut.com/starlink-10-falcon-9-block-5/">everydayastronaut.com/starlink-10-fa…</a>) <span class="entity-image"><a href="https://pbs.twimg.com/media/EfpzI6uXYAIsTHp.jpg" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfpzI6uXYAIsTHp.jpg" data-src="https://pbs.twimg.com/media/EfpzI6uXYAIsTHp.jpg"></a></span></p>
@@ -77,6 +70,5 @@ Hay tratados que obligan a mover los satélites tras finalizar su misión. Una o
 <a class="entity-url" data-preview="true" href="https://www.statista.com/statistics/897719/number-of-active-satellites-by-year/">statista.com/statistics/897…</a><br />
 <a class="entity-url" data-preview="true" href="https://satellitesafety.gsfc.nasa.gov/">satellitesafety.gsfc.nasa.gov</a><br />
 <a class="entity-url" data-preview="true" href="https://www.space.com/5542-satellite-destroyed-space-collision.html">space.com/5542-satellite…</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 
