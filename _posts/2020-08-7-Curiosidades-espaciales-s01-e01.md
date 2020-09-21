@@ -1,7 +1,5 @@
 ---
-layout: post
-permalink: "81264"
-date: 2020-09-21 22:34:24 +0000
+title: "#CuriosidadesEspaciales S01E01: Piloto"
 ---
 
 <div class="card-tweets" dir="auto">
