@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E02: Los rusos golpean primero"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodio de #CuriosidadesEspaciales repasamos la vida de Sergei Korolev, el padre de la cosmonáutica soviética.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1. </span> Identidades secretas, persecución política, 2 traiciones y 1 gulag. Tras la cortina de hierro repasamos la vida del “Diseñador Jefe”, el padre de la cosmonáutica soviética: Sergei Korolev.<br />
@@ -10,16 +10,6 @@ title: Post en construcción # TODO
 <br />
 <br />
 <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a> temporada 1, episodio 2: Los rusos golpean primero <span class="entity-image"><a href="https://pbs.twimg.com/media/Eem9E5-WkAcFhpW.png" target="_blank"><img alt="" src="https://pbs.twimg.com/media/Eem9E5-WkAcFhpW.png" data-src="https://pbs.twimg.com/media/Eem9E5-WkAcFhpW.png"></a></span></p>
-    <p><span class="nop nop-start">2. </span> [voz en off] Previamente en <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a>…<br />
-<br />
-<br />
-<br />
-Episodio 1: 👩‍🚀 piloto <br />
-<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290418833040310279">https://twitter.com/guidodecaso/status/1290418833040310279</a></blockquote></span></span><br />
-<br />
-<br />
-<br />
-(omitir intro)</p>
     <p><span class="nop nop-start">3. </span> Viajamos, una vez más, a 1945. Terminó la Segunda Guerra Mundial y el Ejercito Rojo ya capturó Berlín. Sergei Korolev, un joven diseñador aeronáutico es parte de una comitiva que tiene la tarea de recopilar todo lo que se pueda aprender sobre el cohete alemán V-2 🕵️. <span class="entity-image"><a href="https://pbs.twimg.com/media/Eem6ITJXsAEzVNZ.png" target="_blank"><img alt="" src="https://pbs.twimg.com/media/Eem6ITJXsAEzVNZ.png" data-src="https://pbs.twimg.com/media/Eem6ITJXsAEzVNZ.png"></a></span></p>
     <p><span class="nop nop-start">4. </span> Los alemanes no habían estado perdiendo el tiempo. El grado de avance es mucho mayor al que los soviéticos tenían hasta entonces. El V-2 era una verdadera proeza de ingeniería. <span class="entity-image"><a href="https://pbs.twimg.com/media/Eem6TSZX0AAmV-B.png" target="_blank"><img alt="" src="https://pbs.twimg.com/media/Eem6TSZX0AAmV-B.png" data-src="https://pbs.twimg.com/media/Eem6TSZX0AAmV-B.png"></a></span></p>
     <p><span class="nop nop-start">5. </span> A Sergei esto lo llena de bronca 🤬. Él mismo había sido parte de los avances soviéticos hasta que una doble traición les puso freno. Para entender esto tenemos que rebobinar aún más esta historia.</p>
