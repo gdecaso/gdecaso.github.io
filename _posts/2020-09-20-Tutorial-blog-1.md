@@ -33,10 +33,10 @@ El fork va a tener el mismo nombre de repositorio que el original, pero para que
 Vamos a la configuración del repositorio y buscamos la opción para renombrarlo, que debería estar arriba de todo.
 
 Debemos poner como nombre de repositorio `[usuario].github.io`. Por ejemplo `miblog.github.io`, si es que `miblog` es tu nombre de usuario en GitHub, claro está.
-![Fork](/images/2020-09-20/02-rename.png)
+![Renombrar](/images/2020-09-20/02-rename.png)
 
 Mientras estamos en la configuración de nuestro repositorio, también podemos asegurarnos de que la configuración de la GitHub Page está activada. Esta sección nos permite elegir desde que *branch* queremos servir nuestra página y no olvidar de activar el último checkbox, relativo a HTTPS.
-![Fork](/images/2020-09-20/02b-settings.png)
+![Configuración](/images/2020-09-20/02b-settings.png)
 (Ignorar por ahora la parte del `Custom domain`. La veremos en la segunda parte.)
 
 ## Paso 1.2. Clonando nuestro fork
@@ -96,7 +96,7 @@ footer-links:
 ```
 
 En mi caso yo sólo completé 3 campos y por eso mi pie de página se ve así:
-![Fork](/images/2020-09-20/03-footer.png)
+![Footer](/images/2020-09-20/03-footer.png)
 
 Y por último, algunos tweaks más:
 ```yml
