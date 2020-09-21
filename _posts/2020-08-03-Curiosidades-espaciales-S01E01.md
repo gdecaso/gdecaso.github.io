@@ -1,8 +1,9 @@
 ---
-layout: post
-permalink: "82666"
-date: 2020-09-21 22:57:46 +0000
+title: "#CuriosidadesEspaciales S01E03: Piloto"
+categories: "CuriosidadesEspaciales"
 ---
+
+> En el primer episodio de #CuriosidadesEspaciales cuento la historia de por qué la NASA dejó de soñar a lo grande tras la llegada a la Luna, y por qué creo que la "edad oscura" está terminando de la mano de Artemis y los nuevos actores en el sector privado.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1. </span> 👩‍🚀 “A small step for a woman, a huge step for humanity”. Primera mujer en pisar la Luna.¿Quizás sean esas las palabras que escuchemos en apenas 4 años cuando la misión Artemis 3 llegue a la luna? ¿Pero sabían que en un universo paralelo esto podría haber pasado en los ’70s? <span class="entity-image"><a href="https://pbs.twimg.com/media/Eeh7aoEVoAE3w1g.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/Eeh7aoEVoAE3w1g.png" data-src="https://pbs.twimg.com/media/Eeh7aoEVoAE3w1g.png"></a></span></p>
@@ -32,6 +33,5 @@ date: 2020-09-21 22:57:46 +0000
     <p><span class="nop nop-start">25. </span> <span class="entity-embed"><iframe class="youtube-player keep-ratio-4-3" src="https://www.youtube.com/embed/6qA9iaAUo8k" frameborder="0" allowFullScreen></iframe></span> muy cortito. Yapa: narrado por Octavia Spencer, que la rompe toda en Hidden Figures, basada en la historia real de un grupo de mujeres afroamericanas que realizaron una tarea tan crucial como invisible en el programa Apollo.</p>
     <p><span class="nop nop-start">26. </span> Cierro con las palabras de Neil deGrasse Tyson <span class="entity-embed"><iframe class="youtube-player keep-ratio-4-3" src="https://www.youtube.com/embed/CbIZU8cQWXc" frameborder="0" allowFullScreen></iframe></span>. El nos dice: “Dejamos de soñar”. ¿Volvemos a entusiasmarnos?</p>
     <p>Con esto concluye <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a> temporada 1, episodio piloto. Pronto más hilos🖖</p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 
