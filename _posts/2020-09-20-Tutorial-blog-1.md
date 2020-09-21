@@ -32,17 +32,15 @@ El fork va a tener el mismo nombre de repositorio que el original, pero para que
 
 Vamos a la configuración del repositorio y buscamos la opción para renombrarlo, que debería estar arriba de todo.
 
-Debemos elegir un nombre de repositorio que siga el patrón `*.github.io`. Por ejemplo `miblog.github.io`.
+Debemos poner como nombre de repositorio `[usuario].github.io`. Por ejemplo `miblog.github.io`, si es que `miblog` es tu nombre de usuario en GitHub, claro está.
 ![Fork](/images/2020-09-20/02-rename.png)
-
-**Atención:** No es tan grave si después lo quieren renombrar, pero es importante que el nombre termine en `.github.io` o sino GitHub no lo reconocerá como un repositorio de GitHub pages.
 
 ## Paso 1.2. Clonando nuestro fork
 En este paso, vamos a clonar nuestro fork para tenerlo localmente en nuestra compu.
 ```sh
-git clone git@github.com:[usuario]/[repo].github.io.git
+git clone git@github.com:[usuario]/[usuario].github.io.git
 ```
-Reemplazando `[usuario]` por tu username en GitHub y `[repo]` por el prefijo de nombre del repositorio que hayas elegido.
+Reemplazando `[usuario]` por tu username en GitHub.
 
 ## Paso 1.3. Borrando cosas que sobran
 Vamos a borrar los siguientes archivos:
@@ -66,12 +64,12 @@ description:
 
 # URL del logo del blog
 # va a mostrarse en la barra de navegación superior
-avatar: https://raw.githubusercontent.com/[usuario]/[repo].github.io/master/images/logo.png
+avatar: https://raw.githubusercontent.com/[usuario]/[usuario].github.io/master/images/logo.png
 ```
 
 Para la URL del avatar, mi recomendación es que le deleguemos la tarea de servir las imágenes a las CDN de GitHub. Para eso, sencillamente vamos a poner nuestro logo en el directorio `images/` y con el nombre `logo.png`. 
 
-**Importante:** Recordá reemplazar `[usuario]` y `[repo]` por los tuyos en el valor del `avatar` del ejemplo anterior.
+**Importante:** Recordá reemplazar `[usuario]` por el tuyo en el valor del `avatar` del ejemplo anterior.
 
 El archivo `config.yml` también tiene varias configuraciones opcionales pero *muy importantes*.
 ```yml
@@ -208,11 +206,11 @@ Si te sentís particularmente confiado, o no tenés ganas de instalar Jekyll, po
 
 Lo único que tenés que hacer es commitear y pushear tus cambios vía `git` de la manera usual.
 
-Una vez que tu commit ya esté en GitHub, deberías poder navegar a `https://[miblog].github.io` (o el prefijo que hayas elegido) y verás tu blog en toda su gloria.
+Una vez que tu commit ya esté en GitHub, deberías poder navegar a `https://[usuario].github.io` y verás tu blog en toda su gloria.
 
 **Importante:** Hay una pequeña demora desde que GitHub recibe tu commit y tus cambios se ven reflejados en la GitHub page. Si no los ves, esperá un poco. Si seguís sin verlos, probá abrir una ventana en modo incógnito o forzar el refresh de tu navegador.
 
 # Conclusión de la primera parte
 En este punto ya tenés un blog servido con alta disponibilidad por GitHub. Para crear nuevos posts sólo basta que crees un archivo `_posts/yyyy-mm-dd-titulo.md` con el *front matter* como vimos y el contenido en Markdown y hagas un *commit & push* a GitHub.
 
-Si no te molesta tener un dominio como `miblog.github.io` entonces con esta primera parte del tutorial ya deberías tener todo lo necesario. En la segunda parte nos enfocaremos en configurar tu blog para que use un dominio propio como por ejemplo `miblog.com.ar` o `miblog.ar`.
+Si no te molesta tener un dominio como `[usuario].github.io` entonces con esta primera parte del tutorial ya deberías tener todo lo necesario. En la segunda parte nos enfocaremos en configurar tu blog para que use un dominio propio como por ejemplo `miblog.com.ar` o `miblog.ar`.
