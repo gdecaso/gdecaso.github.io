@@ -1,8 +1,9 @@
 ---
-layout: post
-permalink: "81952"
-date: 2020-09-21 22:45:52 +0000
+title: "#CuriosidadesEspaciales S01E04: Aquella solitaria vaca cubana"
+categories: "CuriosidadesEspaciales"
 ---
+
+> En este episodio de #CuriosidadesEspaciales te cuento la historia de Rufina, una vaca Cubana que estaba en un mal lugar en el momento equivocado... y que inspiró un temón de Los Redondos.
 
 <div class="card-tweets" dir="auto">
     <p>¿Qué tienen en común el GPS, el efecto Doppler, Los Redondos, Fidel Castro y la Exploración Espacial?<br />
@@ -56,6 +57,5 @@ Si te interesan estas historias, no dejes de dar ‘follow’ que ya pronto vend
 <a class="entity-url" data-preview="true" href="https://www.overlookhorizon.com/spacex-planning-historic-saocom-1b-satellite-launch/">overlookhorizon.com/spacex-plannin…</a><br />
 <a class="entity-url" data-preview="true" href="https://www.redondossubtitulados.com.ar/la-solitaria-vaca-cubana-asesinada-por-un-satelite/">redondossubtitulados.com.ar/la-solitaria-v…</a><br />
 <a class="entity-url" data-preview="true" href="https://www.cibercuba.com/lecturas/exordio-rufina-vaca-martir">cibercuba.com/lecturas/exord…</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 
