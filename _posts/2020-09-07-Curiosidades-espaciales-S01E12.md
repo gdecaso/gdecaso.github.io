@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E12: Espacio Made in China"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodio de #CuriosidadesEspaciales nos vamos del otro lado de la Gran Muralla para repasar la rica historia de la exploración espacial china.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> Seguro te suena Yuri Gagarin ☭. Quizás hayas oído sobre John Glenn 🇺🇸. ¿Pero alguna vez te mencionaron a Yang Liwei? <br />
@@ -81,6 +81,5 @@ Fuentes:<br />
 - <a class="entity-url" data-preview="true" href="https://thediplomat.com/2019/05/china-has-a-head-start-in-the-new-space-race/">thediplomat.com/2019/05/china-…</a> <br />
 - <a class="entity-url" data-preview="true" href="https://www.space.com/long-march-chinese-rocket-uncontrolled-crash.html">space.com/long-march-chi…</a><br />
 - <a class="entity-url" data-preview="true" href="https://en.wikipedia.org/wiki/Chinese_space_program">en.wikipedia.org/wiki/Chinese_s…</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

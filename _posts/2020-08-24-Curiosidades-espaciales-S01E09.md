@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E09: De Argentina a las estrellas"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodio de #CuriosidadesEspaciales te cuento sobre la rica y poco conocida historia de los lanzadores "Made in Argentina".
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> Este jueves veremos el lanzamiento del satélite <a class="entity-hashtag" href="/hashtag/SAOCOM1B">#SAOCOM1B</a> a bordo de un Falcon 9 de <a class="entity-mention" href="https://twitter.com/SpaceX">@SpaceX</a>.<br />
@@ -10,15 +10,6 @@ title: Post en construcción # TODO
 Pero…, ¿sabías que quizás en pocos años podremos lanzar satélites desde territorio argentino?<br />
 <br />
 <a class="entity-hashtag" href="/hashtag/CuriosidadesEspaciales">#CuriosidadesEspaciales</a>, temporada 1, episodio 9: De Argentina a las estrellas 🇦🇷. <span class="entity-video-gif"><video autoplay muted loop controls poster="https://pbs.twimg.com/tweet_video_thumb/EgNYwgRXoAAl3GO.jpg"><source src="https://video.twimg.com/tweet_video/EgNYwgRXoAAl3GO.mp4" type="video/mp4"><img alt="Video Poster" src="https://pbs.twimg.com/tweet_video_thumb/EgNYwgRXoAAl3GO.jpg"></video></span></p>
-    <p><span class="nop nop-start">2/ </span> Previamente:<br />
-Ep1) 👩‍🚀<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290418833040310279">https://twitter.com/guidodecaso/status/1290418833040310279</a></blockquote></span></span><br />
-Ep2) 🛰️<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1290770767249133568">https://twitter.com/guidodecaso/status/1290770767249133568</a></blockquote></span></span><br />
-Ep3) ⚙️<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1291735815564009472">https://twitter.com/guidodecaso/status/1291735815564009472</a></blockquote></span></span><br />
-Ep4) 🐮<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1292833934716411908">https://twitter.com/guidodecaso/status/1292833934716411908</a></blockquote></span></span><br />
-Ep5) 🤠<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1293607594540638211">https://twitter.com/guidodecaso/status/1293607594540638211</a></blockquote></span></span><br />
-Ep6) 🥝<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1294386109233934337">https://twitter.com/guidodecaso/status/1294386109233934337</a></blockquote></span></span><br />
-Ep7) 🚮<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1295700708201844742">https://twitter.com/guidodecaso/status/1295700708201844742</a></blockquote></span></span><br />
-Ep8) 💤<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1296560922513858560">https://twitter.com/guidodecaso/status/1296560922513858560</a></blockquote></span></span></p>
     <p><span class="nop nop-start">3/ </span> La historia de los lanzadores argentinos es tan rica como poco conocida. <br />
 <br />
 Antes de arrancar, gracias <a class="entity-mention" href="https://twitter.com/TotinFraire">@TotinFraire</a> por revisar un borrador de este hilo y por tus aportes invaluables. 🙌 <br />
@@ -82,6 +73,5 @@ Si lo logramos, podremos participar de un mercado global en gran crecimiento.  �
 - <span class="entity-embed"><iframe class="youtube-player keep-ratio-4-3" src="https://www.youtube.com/embed/ryB5gqoRkrA" frameborder="0" allowFullScreen></iframe></span><br />
 - <a class="entity-url" data-preview="true" href="https://www.lanueva.com/nota/2014-10-17-0-38-0-daub-y-von-braun">lanueva.com/nota/2014-10-1…</a><br />
 - <a class="entity-url" data-preview="true" href="https://www.lanacion.com.ar/ciencia/actividad-espacial-anuncian-la-reanudacion-de-programas-satelitales-y-otras-tecnologias-nid2332214">lanacion.com.ar/ciencia/activi…</a> de la gran <a class="entity-mention" href="https://twitter.com/norabar">@norabar</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

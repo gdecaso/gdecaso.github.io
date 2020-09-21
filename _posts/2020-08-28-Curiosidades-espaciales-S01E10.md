@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E10: Tardígrados en la Luna"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodiode #CuriosidadesEspaciales te cuento sobre esa loca vez en la que científicos de la Tierra mandaron vida a otro cuerpo celeste.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> ¿Qué tienen en común Isaac Asimov, Wikipedia, Tesla, la Luna y los tardígrados? <br />
@@ -49,6 +49,5 @@ Fuentes:<br />
 - <a class="entity-url" data-preview="true" href="https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/">wired.com/story/a-crashe…</a><br />
 - <a class="entity-url" data-preview="true" href="https://www.archmission.org/missions">archmission.org/missions</a><br />
 - <a class="entity-url" data-preview="true" href="https://asimov.fandom.com/es/wiki/Saga_de_la_Fundaci%C3%B3n">asimov.fandom.com/es/wiki/Saga_d…</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

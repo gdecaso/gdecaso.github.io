@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E11: El primer caminante espacial"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este episodio de #CuriosidadesEspaciales repasamos la vida de Alexei Leonov, el primer astronauta en realizar una caminata espacial.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> El cosmonauta Leonov dice su famosa frase desde la Luna: <br />
@@ -44,6 +44,5 @@ Fuentes:<br />
 - <a class="entity-url" data-preview="true" href="https://www.rt.com/news/273709-soyuz-apollo-project-40-years">rt.com/news/273709-so…</a><br />
 - <a class="entity-url" data-preview="true" href="https://www.space.com/alexei-leonov-bio.html">space.com/alexei-leonov-…</a> <br />
 - <a class="entity-url" data-preview="true" href="https://www.bbc.com/mundo/noticias/2014/10/141013_espacio_mision_rusa_leonov_lp">bbc.com/mundo/noticias…</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 
