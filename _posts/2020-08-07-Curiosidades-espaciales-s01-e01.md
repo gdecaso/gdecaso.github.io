@@ -1,6 +1,9 @@
 ---
 title: "#CuriosidadesEspaciales S01E01: Piloto"
+categories: "#CuriosidadesEspaciales"
 ---
+
+> En el primer episodio de #CuriosidadesEspaciales cuento la historia de por qué la NASA dejó de soñar a lo grande tras la llegada a la Luna, y por qué creo que la "edad oscura" está terminando de la mano de Artemis y los nuevos actores en el sector privado.
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1. </span> El mes pasado la NASA se preparaba para mandar un nuevo vehículo a Marte. Banderas yanquis por doquier. El cohete listo para partir. ¿Sabía <a class="entity-mention" href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a> que el cohete usó un motor ruso?<br />
