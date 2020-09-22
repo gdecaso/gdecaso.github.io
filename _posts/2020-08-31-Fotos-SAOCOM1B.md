@@ -4,6 +4,8 @@ category: "Actualidad espacial"
 ---
 > Hilo con las mejores fotos del lanzamiento del SAOCOM1-B.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1300534110063079432)*
+
 <div class="card-tweets" dir="auto">
     <p>Porque nadie lo pidió, un hilo con las mejores fotos del lanzamiento del <a class="entity-hashtag" href="/hashtag/SAOCOM1B">#SAOCOM1B</a> 🇦🇷🚀🛰🌎<br />
 <br />

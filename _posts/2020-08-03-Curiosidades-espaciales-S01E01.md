@@ -3,7 +3,9 @@ title: "#CuriosidadesEspaciales S01E01: Piloto"
 category: "CuriosidadesEspaciales"
 ---
 
-> En el primer episodio de #CuriosidadesEspaciales cuento la historia de por qué la NASA dejó de soñar a lo grande tras la llegada a la Luna, y por qué creo que la "edad oscura" está terminando de la mano de Artemis y los nuevos actores en el sector privado.
+> En el primer episodio de #CuriosidadesEspaciales cuento la historia de por qué la NASA dejó de soñar a lo grande tras la llegada a la Luna, y por qué creo que la "edad oscura" está terminando de la mano de Artemis y los nuevos actores en el sector privado. 
+
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1290418833040310279)*
 
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1. </span> 👩‍🚀 “A small step for a woman, a huge step for humanity”. Primera mujer en pisar la Luna.¿Quizás sean esas las palabras que escuchemos en apenas 4 años cuando la misión Artemis 3 llegue a la luna? ¿Pero sabían que en un universo paralelo esto podría haber pasado en los ’70s? <span class="entity-image"><a href="https://pbs.twimg.com/media/Eeh7aoEVoAE3w1g.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/Eeh7aoEVoAE3w1g.png" data-src="https://pbs.twimg.com/media/Eeh7aoEVoAE3w1g.png"></a></span></p>

@@ -4,6 +4,8 @@ category: "Actualidad espacial"
 ---
 > En este post comento acerca del nuevo motor Raptor de la empresa SpaceX, en su variante optimizada para el vacío.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1302059846238384128)*
+
 <div class="card-tweets" dir="auto">
     <p>El nuevo motor de SpaceX: Raptor.<br />
 <br />

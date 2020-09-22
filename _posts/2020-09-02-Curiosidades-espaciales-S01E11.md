@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales repasamos la vida de Alexei Leonov, el primer astronauta en realizar una caminata espacial.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1301262610818572288)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> El cosmonauta Leonov dice su famosa frase desde la Luna: <br />
 <br />

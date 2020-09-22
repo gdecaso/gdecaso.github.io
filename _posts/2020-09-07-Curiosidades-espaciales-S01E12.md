@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales nos vamos del otro lado de la Gran Muralla para repasar la rica historia de la exploración espacial china.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1303073818815143936)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> Seguro te suena Yuri Gagarin ☭. Quizás hayas oído sobre John Glenn 🇺🇸. ¿Pero alguna vez te mencionaron a Yang Liwei? <br />
 <br />

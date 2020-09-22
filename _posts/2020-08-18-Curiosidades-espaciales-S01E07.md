@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la problemática de la basura en órbita, y las dificultades para la astronomía por culpa del proyecto Starlink.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1295700708201844742)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> En el film Gravity (2013) Sandra Bullock y George Clooney venían pisteando como unos campeones y de pronto… pasaron cosas 👩‍🚀👨‍🚀🚀🛰💥. <br />
 <br />

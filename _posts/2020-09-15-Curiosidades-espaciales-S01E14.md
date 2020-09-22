@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En esta entrega de #CuriosidadesEspaciales te cuento sobre el primer astronauta latinoamericano: el cubano Arnaldo Tamayo Méndez.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1305973164627898368)*
+
 <div class="card-tweets" dir="auto">
     <p>Basta de Gagarin y Armstrong. Este viernes se cumplen 40 años del primer latinoamericano en orbitar nuestro planeta. 🌎💫<br />
 <br />

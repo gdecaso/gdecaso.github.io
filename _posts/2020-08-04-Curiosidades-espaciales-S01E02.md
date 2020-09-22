@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales repasamos la vida de Sergei Korolev, el padre de la cosmonáutica soviética.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1290770767249133568)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1. </span> Identidades secretas, persecución política, 2 traiciones y 1 gulag. Tras la cortina de hierro repasamos la vida del “Diseñador Jefe”, el padre de la cosmonáutica soviética: Sergei Korolev.<br />
 <br />

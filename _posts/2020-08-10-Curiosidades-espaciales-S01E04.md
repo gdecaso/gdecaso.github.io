@@ -5,6 +5,8 @@ category: "CuriosidadesEspaciales"
 
 > En este episodio de #CuriosidadesEspaciales te cuento la historia de Rufina, una vaca Cubana que estaba en un mal lugar en el momento equivocado... y que inspiró un temón de Los Redondos.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1292833934716411908)*
+
 <div class="card-tweets" dir="auto">
     <p>¿Qué tienen en común el GPS, el efecto Doppler, Los Redondos, Fidel Castro y la Exploración Espacial?<br />
 <br />

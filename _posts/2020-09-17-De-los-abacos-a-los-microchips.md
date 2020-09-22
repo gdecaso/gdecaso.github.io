@@ -4,6 +4,8 @@ category: "Historia de la computación"
 ---
 > Un repaso a la velocidad de la luz desde los antíguos ábacos a los increíbles microchips.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1306704133005758465)*
+
 <div class="card-tweets" dir="auto">
     <p>Desde los ábacos a los microchips 🧮📱. De engranajes a transistores ⚙️💻.<br />
 <br />

@@ -4,6 +4,8 @@ category: "Fotografía/gráfica"
 ---
 > Repasamos las fotos finalistas del concurso de fotografía espacial 2020 el Royal Museums Greenwich.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1304125686492344320)*
+
 <div class="card-tweets" dir="auto">
     <p>Hilo con las fotos finalistas del concurso de fotografía espacial de <a class="entity-mention" href="https://twitter.com/RMGreenwich">@RMGreenwich</a>. <br />
 <br />

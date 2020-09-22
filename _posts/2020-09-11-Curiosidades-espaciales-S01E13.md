@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este capítulo de #CuriosidadesEspaciales charlamos sobre el cohete SLS, que en pocos años estará llevando astronautas yanquis a la Luna... pero que está hecho con un rejunte de piezas de la década del '60 y '70.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1304533376951611392)*
+
 <div class="card-tweets" dir="auto">
     <p>Si todo sale bien, la primera mujer y el próximo hombre pisarán la Luna en 2024.<br />
 <br />

@@ -4,6 +4,8 @@ category: "Fotografía/gráfica"
 ---
 > Un recorrido visual por algunos de los mejores afiches de propaganda soviética vinculada a la exploración espacial.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1307335316781576195)*
+
 <div class="card-tweets" dir="auto">
     <p>Sale hilo con gloriosas imágenes de propaganda soviética espacial. Arrancamos...<br />
 <br />

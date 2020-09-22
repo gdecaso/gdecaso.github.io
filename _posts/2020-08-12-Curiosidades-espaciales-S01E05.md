@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la fábrica de cohetes que levantó SpaceX en el medio de la nada en el estado de Texas, a pasitos del borde mejicano.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1293607594540638211)*
+
 <div class="card-tweets" dir="auto">
     <p>A pasitos del borde entre EEUU y México se erigen placas de metal. ¿Se trata del famoso muro de <a class="entity-mention" href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a>?<br />
 <br />

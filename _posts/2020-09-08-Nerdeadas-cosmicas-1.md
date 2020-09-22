@@ -4,6 +4,8 @@ category: "NerdeadasCósmicas"
 ---
 > ¿Alguna vez te preguntaste por qué los cohetes empiezan a apuntar para el costado un rato después de despegar? ¿Por qué no van derecho para arriba?
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1303371220914765824)*
+
 <div class="card-tweets" dir="auto">
     <p>Si el espacio queda "para arriba", ¿por qué los cohetes cuando despegan salen para un costado?<br />
 <br />

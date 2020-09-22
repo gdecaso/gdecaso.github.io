@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodiode #CuriosidadesEspaciales te cuento sobre esa loca vez en la que científicos de la Tierra mandaron vida a otro cuerpo celeste.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1299316340394729475)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> ¿Qué tienen en común Isaac Asimov, Wikipedia, Tesla, la Luna y los tardígrados? <br />
 <br />

@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodiode #CuriosidadesEspaciales te cuento sobre las dificultades que tuvieron los astronautas de la misión Apollo 11 a la hora de dormir.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1296560922513858560)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> Imaginate que terminó el día más importante de tu vida. Difícil mimir, ¿no?<br />
 <br />

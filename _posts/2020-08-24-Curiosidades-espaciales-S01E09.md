@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la rica y poco conocida historia de los lanzadores "Made in Argentina".
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1298009018875744268)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> Este jueves veremos el lanzamiento del satélite <a class="entity-hashtag" href="/hashtag/SAOCOM1B">#SAOCOM1B</a> a bordo de un Falcon 9 de <a class="entity-mention" href="https://twitter.com/SpaceX">@SpaceX</a>.<br />
 <br />

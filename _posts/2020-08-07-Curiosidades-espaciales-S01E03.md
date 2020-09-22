@@ -5,6 +5,8 @@ category: "CuriosidadesEspaciales"
 
 > En este episodio de #CuriosidadesEspaciales hablamos de la increíble historia del RD-180: un motor ruso que se usa para lanzar satélites yanquis... que espían a Rusia.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1291735815564009472)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1. </span> El mes pasado la NASA se preparaba para mandar un nuevo vehículo a Marte. Banderas yanquis por doquier. El cohete listo para partir. ¿Sabía <a class="entity-mention" href="https://twitter.com/realDonaldTrump">@realDonaldTrump</a> que el cohete usó un motor ruso?<br />
 <br />

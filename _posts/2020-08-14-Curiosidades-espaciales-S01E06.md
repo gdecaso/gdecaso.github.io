@@ -4,6 +4,8 @@ category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la empresa neozelandesa que está revolucionando el mercado de lanzadores espaciales de pequeño porte.
 
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1294386109233934337)*
+
 <div class="card-tweets" dir="auto">
     <p><span class="nop nop-start">1/ </span> El pueblo lo pide, este humilde servidor cumple.<br />
 <br />
