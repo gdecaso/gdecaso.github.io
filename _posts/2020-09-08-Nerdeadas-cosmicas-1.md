@@ -1,11 +1,11 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#NerdeadasCósmicas: ¿por qué los cohetes salen para el costado?"
+categories: "NerdeadasCósmicas"
 ---
-# TODO Abstract (con quote "> ")
+> ¿Alguna vez te preguntaste por qué los cohetes empiezan a apuntar para el costado un rato después de despegar? ¿Por qué no van derecho para arriba?
 
 <div class="card-tweets" dir="auto">
-    <p>Si es espacio queda "para arriba", ¿por qué los cohetes cuando despegan salen para un costado?<br />
+    <p>Si el espacio queda "para arriba", ¿por qué los cohetes cuando despegan salen para un costado?<br />
 <br />
 Sale un breve hilo de <a class="entity-hashtag" href="/hashtag/NerdeadasC%C3%B3smicas">#NerdeadasCósmicas</a> 🤓🌌 <span class="entity-video"><video controls poster="https://pbs.twimg.com/ext_tw_video_thumb/1303360605651374085/pu/img/i5MfgHR2nwfWee-A.jpg"><source src="https://video.twimg.com/ext_tw_video/1303360605651374085/pu/vid/1280x720/JQzGfQ06QSVTjmxi.mp4?tag=10" type="video/mp4"><br />
 <source src="https://video.twimg.com/ext_tw_video/1303360605651374085/pu/pl/vhdtHr5xHdVp65vQ.m3u8?tag=10" type="application/x-mpegURL"> Sorry, your browser doesn't support embedded videos<br><img alt="" src="https://pbs.twimg.com/ext_tw_video_thumb/1303360605651374085/pu/img/i5MfgHR2nwfWee-A.jpg"></video></span></p>

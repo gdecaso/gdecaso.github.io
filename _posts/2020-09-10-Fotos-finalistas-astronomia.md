@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "Las mejores fotos de astronomía del 2020"
+categories: "Fotografía/gráfica"
 ---
-# TODO Abstract (con quote "> ")
+> Repasamos las fotos finalistas del concurso de fotografía espacial 2020 el Royal Museums Greenwich.
 
 <div class="card-tweets" dir="auto">
     <p>Hilo con las fotos finalistas del concurso de fotografía espacial de <a class="entity-mention" href="https://twitter.com/RMGreenwich">@RMGreenwich</a>. <br />
@@ -36,6 +36,5 @@ Las fotos ganadoras se conocerán esta tarde, acá van sin ningún orden especí
     <p><span class="nop nop-start">23. </span> 'Bridging the Light Fantastic' por Woowahgeek <span class="entity-image"><a href="https://pbs.twimg.com/media/Ehks_riWoAEkwjX.jpg" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/Ehks_riWoAEkwjX.jpg" data-src="https://pbs.twimg.com/media/Ehks_riWoAEkwjX.jpg"></a></span></p>
     <p>El anuncio de las fotos ganadoras y la entrega de premios está en vivo ahora <a class="entity-url" data-preview="true" href="https://www.facebook.com/royalmuseumsgreenwich/videos/669453140335286/">facebook.com/royalmuseumsgr…</a></p>
     <p>Una de las ganadoras, en clara referencia a la red <a class="entity-hashtag" href="/hashtag/Starlink">#Starlink</a> de <a class="entity-mention" href="https://twitter.com/SpaceX">@SpaceX</a> y <a class="entity-mention" href="https://twitter.com/elonmusk">@elonmusk</a> <span class="entity-image"><a href="https://pbs.twimg.com/media/EhkypHhX0AAJpfh.jpg" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EhkypHhX0AAJpfh.jpg" data-src="https://pbs.twimg.com/media/EhkypHhX0AAJpfh.jpg"></a></span></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

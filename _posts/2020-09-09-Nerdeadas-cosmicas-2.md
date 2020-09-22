@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#NerdeadasCósmicas: ¿por qué los astronautas flotan en el espacio?"
+categories: "NerdeadasCósmicas"
 ---
-# TODO Abstract (con quote "> ")
+> Los astronautas no flotan porque no hay gravedad. Es más complicado que eso, en este post te lo cuento.
 
 <div class="card-tweets" dir="auto">
     <p>¿Creías que los astronautas flotan en el espacio porque están lejos de la tierra?<br />

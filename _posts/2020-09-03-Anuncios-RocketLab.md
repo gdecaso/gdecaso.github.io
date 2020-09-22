@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: RocketLab anuncia su satélite Photon
+categories: "Actualidad espacial"
 ---
-# TODO Abstract (con quote "> ")
+> Reportando 'en vivo' sobre los anuncios de la compañía neozelandesa RocketLab respecto de su satélite Photon.
 
 <div class="card-tweets" dir="auto">
     <p>A pocos minutos de que arranque el anuncio de <a class="entity-mention" href="https://twitter.com/RocketLab">@RocketLab</a>. Yo me inclino por que presentan un Electron Heavy... pero ojalá me sorprendan con alguna otra cosa <span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/RocketLab/status/1301578414575345665">https://twitter.com/RocketLab/status/1301578414575345665</a></blockquote></span></span></p>

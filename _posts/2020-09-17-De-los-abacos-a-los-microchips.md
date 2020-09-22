@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: De los ábacos a los microchips
+categories: "Historia de la computación"
 ---
-# TODO Abstract (con quote "> ")
+> Un repaso a la velocidad de la luz desde los antíguos ábacos a los increíbles microchips.
 
 <div class="card-tweets" dir="auto">
     <p>Desde los ábacos a los microchips 🧮📱. De engranajes a transistores ⚙️💻.<br />

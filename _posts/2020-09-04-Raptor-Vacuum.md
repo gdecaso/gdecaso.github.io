@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: SpaceX presenta su motor Raptor Vacuum
+categories: "Actualidad espacial"
 ---
-# TODO Abstract (con quote "> ")
+> En este post comento acerca del nuevo motor Raptor de la empresa SpaceX, en su variante optimizada para el vacío.
 
 <div class="card-tweets" dir="auto">
     <p>El nuevo motor de SpaceX: Raptor.<br />
@@ -23,6 +23,5 @@ Ahora bien, Starship no es una segunda etapa cualquiera. Es reusable.<br />
 <br />
 Necesita buenos motores tanto para el vacío (ir a órbita) como para el novel del mar (volver) <span class="nop nop-end"> 5/</span></p>
     <p>Veremos cómo será la configuración del thrust puck que combina el Raptor común y el Raptor vacuum. La ingeniería para que ambos puedan hacer su parte seguro es uno de los desafíos que SpaceX tendrá que resolver en el corto plazo. Fin/</p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

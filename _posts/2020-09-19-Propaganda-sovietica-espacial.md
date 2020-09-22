@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "La propaganda soviética espacial"
+categories: "Fotografía/gráfica"
 ---
-# TODO Abstract (con quote "> ")
+> Un recorrido visual por algunos de los mejores afiches de propaganda soviética vinculada a la exploración espacial.
 
 <div class="card-tweets" dir="auto">
     <p>Sale hilo con gloriosas imágenes de propaganda soviética espacial. Arrancamos...<br />
@@ -30,6 +30,5 @@ title: Post en construcción # TODO
     <p><span class="nop nop-start">19/ </span> Nos vamos con esta gloriosa frase:<br />
 <br />
 "El socialismo es nuestra plataforma de lanzamiento" <span class="entity-image"><a href="https://pbs.twimg.com/media/EiSWe9YWoAAiTZf.jpg" target="_blank"><img alt="" src="https://pbs.twimg.com/media/EiSWe9YWoAAiTZf.jpg" data-src="https://pbs.twimg.com/media/EiSWe9YWoAAiTZf.jpg"></a></span></p>
-    <p><span class="entity-mention-threadreader"><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</span></p>
 </div>
 

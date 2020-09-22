@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: El lanzamiento del SAOCOM1-B en fotos
+categories: "Actualidad espacial"
 ---
-# TODO Abstract (con quote "> ")
+> Hilo con las mejores fotos del lanzamiento del SAOCOM1-B.
 
 <div class="card-tweets" dir="auto">
     <p>Porque nadie lo pidió, un hilo con las mejores fotos del lanzamiento del <a class="entity-hashtag" href="/hashtag/SAOCOM1B">#SAOCOM1B</a> 🇦🇷🚀🛰🌎<br />
