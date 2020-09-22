@@ -1,6 +1,6 @@
 ---
 title: "#CuriosidadesEspaciales S01E10: Tardígrados en la Luna"
-categories: "CuriosidadesEspaciales"
+category: "CuriosidadesEspaciales"
 ---
 > En este episodiode #CuriosidadesEspaciales te cuento sobre esa loca vez en la que científicos de la Tierra mandaron vida a otro cuerpo celeste.
 

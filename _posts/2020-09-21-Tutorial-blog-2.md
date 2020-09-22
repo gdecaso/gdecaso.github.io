@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: cómo armar un blog con GitHub pages (parte 2)"
-categories: Tutoriales
+category: Tutoriales
 ---
 
 Esta es la segunda parte del tutorial para armar tu blog usando GitHub Pages. En esta parte nos enfocaremos en registrar un dominio en [nic.ar](https://nic.ar) y en configurar nuestro blog para que lo pueda usar.

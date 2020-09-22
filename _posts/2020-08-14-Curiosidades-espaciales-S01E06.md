@@ -1,6 +1,6 @@
 ---
 title: "#CuriosidadesEspaciales S01E06: Los kiwis voladores"
-categories: "CuriosidadesEspaciales"
+category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la empresa neozelandesa que está revolucionando el mercado de lanzadores espaciales de pequeño porte.
 

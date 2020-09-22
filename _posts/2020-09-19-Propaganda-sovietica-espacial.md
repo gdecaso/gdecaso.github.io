@@ -1,6 +1,6 @@
 ---
 title: "La propaganda soviética espacial"
-categories: "Fotografía/gráfica"
+category: "Fotografía/gráfica"
 ---
 > Un recorrido visual por algunos de los mejores afiches de propaganda soviética vinculada a la exploración espacial.
 

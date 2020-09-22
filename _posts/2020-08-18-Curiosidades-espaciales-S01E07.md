@@ -1,6 +1,6 @@
 ---
 title: "#CuriosidadesEspaciales S01E07: Chatarra espacial"
-categories: "CuriosidadesEspaciales"
+category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la problemática de la basura en órbita, y las dificultades para la astronomía por culpa del proyecto Starlink.
 

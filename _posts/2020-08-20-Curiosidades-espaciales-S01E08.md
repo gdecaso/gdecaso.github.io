@@ -1,6 +1,6 @@
 ---
 title: "#CuriosidadesEspaciales S01E08: Durmiendo en la Luna"
-categories: "CuriosidadesEspaciales"
+category: "CuriosidadesEspaciales"
 ---
 > En este episodiode #CuriosidadesEspaciales te cuento sobre las dificultades que tuvieron los astronautas de la misión Apollo 11 a la hora de dormir.
 

@@ -1,6 +1,6 @@
 ---
 title: RocketLab anuncia su satélite Photon
-categories: "Actualidad espacial"
+category: "Actualidad espacial"
 ---
 > Reportando 'en vivo' sobre los anuncios de la compañía neozelandesa RocketLab respecto de su satélite Photon.
 

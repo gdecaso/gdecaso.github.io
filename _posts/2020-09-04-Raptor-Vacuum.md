@@ -1,6 +1,6 @@
 ---
 title: SpaceX presenta su motor Raptor Vacuum
-categories: "Actualidad espacial"
+category: "Actualidad espacial"
 ---
 > En este post comento acerca del nuevo motor Raptor de la empresa SpaceX, en su variante optimizada para el vacío.
 

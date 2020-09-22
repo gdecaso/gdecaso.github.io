@@ -1,6 +1,6 @@
 ---
 title: El lanzamiento del SAOCOM1-B en fotos
-categories: "Actualidad espacial"
+category: "Actualidad espacial"
 ---
 > Hilo con las mejores fotos del lanzamiento del SAOCOM1-B.
 

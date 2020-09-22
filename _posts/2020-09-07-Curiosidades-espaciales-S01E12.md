@@ -1,6 +1,6 @@
 ---
 title: "#CuriosidadesEspaciales S01E12: Espacio Made in China"
-categories: "CuriosidadesEspaciales"
+category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales nos vamos del otro lado de la Gran Muralla para repasar la rica historia de la exploración espacial china.
 

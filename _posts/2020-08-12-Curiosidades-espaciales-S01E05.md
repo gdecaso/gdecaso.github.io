@@ -1,6 +1,6 @@
 ---
 title: "#CuriosidadesEspaciales S01E05: El silo volador de Texas"
-categories: "CuriosidadesEspaciales"
+category: "CuriosidadesEspaciales"
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la fábrica de cohetes que levantó SpaceX en el medio de la nada en el estado de Texas, a pasitos del borde mejicano.
 

@@ -1,6 +1,6 @@
 ---
 title: "#CuriosidadesEspaciales S01E01: Piloto"
-categories: "CuriosidadesEspaciales"
+category: "CuriosidadesEspaciales"
 ---
 
 > En el primer episodio de #CuriosidadesEspaciales cuento la historia de por qué la NASA dejó de soñar a lo grande tras la llegada a la Luna, y por qué creo que la "edad oscura" está terminando de la mano de Artemis y los nuevos actores en el sector privado.

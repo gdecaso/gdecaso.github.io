@@ -1,6 +1,6 @@
 ---
 title: "#CuriosidadesEspaciales S01E04: Aquella solitaria vaca cubana"
-categories: "CuriosidadesEspaciales"
+category: "CuriosidadesEspaciales"
 ---
 
 > En este episodio de #CuriosidadesEspaciales te cuento la historia de Rufina, una vaca Cubana que estaba en un mal lugar en el momento equivocado... y que inspiró un temón de Los Redondos.
