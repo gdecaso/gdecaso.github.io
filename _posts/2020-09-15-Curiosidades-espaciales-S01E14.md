@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E14: Al espacio en guayabera"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En esta entrega de #CuriosidadesEspaciales te cuento sobre el primer astronauta latinoamericano: el cubano Arnaldo Tamayo Méndez.
 
 <div class="card-tweets" dir="auto">
     <p>Basta de Gagarin y Armstrong. Este viernes se cumplen 40 años del primer latinoamericano en orbitar nuestro planeta. 🌎💫<br />
@@ -47,6 +47,5 @@ Fuentes:<br />
 - <a class="entity-url" data-preview="true" href="https://web.archive.org/web/20170926190746/https://mundo.sputniknews.com/spanish_ruvr_ru/2011/03/02/46837055.html">web.archive.org/web/2017092619…</a><br />
 - <a class="entity-url" data-preview="true" href="https://www.ecured.cu/Antonio_Quintana_Simonetti">ecured.cu/Antonio_Quinta…</a></p>
     <p>Y una yapa. Este mes <a class="entity-mention" href="https://twitter.com/NASA_es">@NASA_es</a> está celebrando esta historia de latinos en la <a class="entity-mention" href="https://twitter.com/Space_Station">@Space_Station</a>, con un muy lindo repaso que menciona a Arnaldo, incluso cuando él no estuvo abordo. <a class="entity-url" data-preview="true" href="https://www.nasa.gov/feature/estaci-n-espacial-20-mes-del-patrimonio-hispano">nasa.gov/feature/estaci…</a></p>
-    <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

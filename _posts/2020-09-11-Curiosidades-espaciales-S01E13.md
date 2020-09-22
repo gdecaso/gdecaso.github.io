@@ -1,8 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO categories: 
+title: "#CuriosidadesEspaciales S01E13: A la Luna en un cohete de segunda mano"
+categories: "CuriosidadesEspaciales"
 ---
-# TODO Abstract (con quote "> ")
+> En este capítulo de #CuriosidadesEspaciales charlamos sobre el cohete SLS, que en pocos años estará llevando astronautas yanquis a la Luna... pero que está hecho con un rejunte de piezas de la década del '60 y '70.
 
 <div class="card-tweets" dir="auto">
     <p>Si todo sale bien, la primera mujer y el próximo hombre pisarán la Luna en 2024.<br />
