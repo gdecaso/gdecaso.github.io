@@ -106,18 +106,7 @@ strong, b {
   font-weight: bold;
 }
 
-video {
-  max-width: 80%;
-  max-height: 500px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  margin-top: 10px;
-  margin-bottom: 5px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-img {
+video, img {
   max-width: 80%;
   max-height: 500px;
   margin-left: auto;
@@ -311,6 +300,26 @@ div.post-date {
   font-size: 70%;
 }
 
+// Pagination styling
+.pagination a, .pagination span {
+  padding: 7px 18px;
+  border: 1px solid #eee;
+  margin-left: -2px;
+  margin-right: -2px;
+  background-color: #ffffff;
+  display: inline-block;
+}
+.pagination a {
+  &:hover {
+      background-color: #f1f1f1;
+      color: #333;
+  }
+}
+.pagination {
+  text-align: center;
+}
+
+// Table styling
 table {
   border: 1px solid #ccc;
   border-collapse: collapse;
