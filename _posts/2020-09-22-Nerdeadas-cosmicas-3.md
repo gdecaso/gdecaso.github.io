@@ -4,7 +4,7 @@ category: "NerdeadasCósmicas"
 ---
 > En este hilo de #NerdeadasCósmicas exploramos cómo la ciencia ficción inspiró una maniobra espacial que se usa para visitar la Estación Espacial Internacional, ¡y para ir a Marte!
 
-*Originalmente publicado en [Twitter]()*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1308466226247749635)*
 
 <div class="card-tweets" dir="auto">
     <p>Para viajar de la Tierra a Marte, tenemos que esperar por una alineación planetaria que se da cada 26 meses (!)<br />
