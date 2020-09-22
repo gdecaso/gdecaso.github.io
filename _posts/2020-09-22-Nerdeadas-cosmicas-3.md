@@ -1,9 +1,8 @@
 ---
-title: Post en construcción # TODO
-# TODO category:
-published: false # TODO remove this line 
+title: "#NerdeadasCósmicas: la maniobra de Hohmann"
+category: "NerdeadasCósmicas"
 ---
-# TODO Abstract (con quote "> ")
+> En este hilo de #NerdeadasCósmicas exploramos cómo la ciencia ficción inspiró una maniobra espacial que se usa para visitar la Estación Espacial Internacional, ¡y para ir a Marte!
 
 <div class="card-tweets" dir="auto">
     <p>Para viajar de la Tierra a Marte, tenemos que esperar por una alineación planetaria que se da cada 26 meses (!)<br />
