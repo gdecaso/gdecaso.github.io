@@ -8,6 +8,18 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      <div class="post-date">
+        Escrito el {{ post.date | date: "%d/%m/%Y" }}
+      </div>
+      <div class="post-categories">
+        En categorías: 
+        {% for category in post.categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </div>
+      <br>
+
       <div class="entry">
         {{ post.excerpt }}
       </div>

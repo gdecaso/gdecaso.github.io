@@ -287,7 +287,12 @@ footer {
 }
 
 div.post-categories {
-  text-align: right;
+  float: right;
+  font-size: 70%;
+}
+
+div.post-date {
+  float: left;
   font-size: 70%;
 }
 
