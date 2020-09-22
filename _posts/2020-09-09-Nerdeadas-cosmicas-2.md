@@ -42,7 +42,7 @@ Pues no. La caída de un objeto en órbita es constante. Va tan rápido que la c
 <br />
 Caída libre + caída constante = astronautas flotadores <br />
 <br />
-👩‍🚀💫🎢 <span class="entity-video-gif"><video autoplay muted loop controls poster="https://pbs.twimg.com/tweet_video_thumb/Ehfx_iaWsAAZH5_.jpg"><source src="https://video.twimg.com/tweet_video/Ehfx_iaWsAAZH5_.mp4" type="video/mp4"><img alt="thats all folks GIF" src="https://pbs.twimg.com/tweet_video_thumb/Ehfx_iaWsAAZH5_.jpg"></video></span></p>
+👩‍🚀💫🎢 <br><span class="entity-video-gif"><video autoplay muted loop controls poster="https://pbs.twimg.com/tweet_video_thumb/Ehfx_iaWsAAZH5_.jpg"><source src="https://video.twimg.com/tweet_video/Ehfx_iaWsAAZH5_.mp4" type="video/mp4"><img alt="thats all folks GIF" src="https://pbs.twimg.com/tweet_video_thumb/Ehfx_iaWsAAZH5_.jpg"></video></span></p>
     <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp">@threadreaderapp</a> unroll</p>
 </div>
 

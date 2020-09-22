@@ -25,6 +25,6 @@ Si la lanzamos un poco más fuerte, caerá más lejos.<br />
 Por supuesto, que con el rozamiento del aire, la pelota eventualmente frenaría y caería.</p>
     <p>Un cohete necesita llegar a un lugar en el que casi no haya rozamiento. Y también necesita alcanzar una velocidad "hacia el costado" para nunca dejar de caer.<br />
 <br />
- "Para ir al espacio hay que ir para arriba, para quedarse en el espacio hay que ir para el costado" <a class="entity-mention" href="https://twitter.com/Erdayastronaut">@Erdayastronaut</a> <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/EhaBPgyWsAA2rir.jpg"><source src="https://video.twimg.com/tweet_video/EhaBPgyWsAA2rir.mp4" type="video/mp4"><img alt="Earth Orbit GIF" src="https://pbs.twimg.com/tweet_video_thumb/EhaBPgyWsAA2rir.jpg"></video></span></p>
+ "Para ir al espacio hay que ir para arriba, para quedarse en el espacio hay que ir para el costado" <a class="entity-mention" href="https://twitter.com/Erdayastronaut">@Erdayastronaut</a> <br><span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/EhaBPgyWsAA2rir.jpg"><source src="https://video.twimg.com/tweet_video/EhaBPgyWsAA2rir.mp4" type="video/mp4"><img alt="Earth Orbit GIF" src="https://pbs.twimg.com/tweet_video_thumb/EhaBPgyWsAA2rir.jpg"></video></span></p>
 </div>
 
