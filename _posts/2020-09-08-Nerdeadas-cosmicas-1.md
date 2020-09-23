@@ -1,6 +1,7 @@
 ---
 title: "#NerdeadasCósmicas: ¿por qué los cohetes salen para el costado?"
 category: "NerdeadasCósmicas"
+related_image: https://pbs.twimg.com/media/EhaAxD0WoAgWhGW.jpg
 ---
 > ¿Alguna vez te preguntaste por qué los cohetes empiezan a apuntar para el costado un rato después de despegar? ¿Por qué no van derecho para arriba?
 

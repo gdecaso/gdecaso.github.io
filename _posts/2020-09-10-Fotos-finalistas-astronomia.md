@@ -1,6 +1,7 @@
 ---
 title: "Las mejores fotos de astronomía del 2020"
 category: "Fotografía/gráfica"
+related_image: https://pbs.twimg.com/media/Ehkq3hcXsAgbejy.jpg
 ---
 > Repasamos las fotos finalistas del concurso de fotografía espacial 2020 el Royal Museums Greenwich.
 

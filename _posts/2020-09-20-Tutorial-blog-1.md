@@ -1,6 +1,7 @@
 ---
 title: "Tutorial: cómo armar un blog con GitHub pages (parte 1)"
 category: Tutoriales
+related_image: /images/2020-09-20/01-fork.png
 ---
 
 Hace pocos días que arranqué este proyecto de blog personal y durante el proceso tuve que luchar contra algunos demonios. Aquí les comparto el tutorial que me hubiera gustado encontrar antes de arrancar mi proyecto.

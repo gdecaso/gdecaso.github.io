@@ -1,6 +1,7 @@
 ---
 title: SpaceX presenta su motor Raptor Vacuum
 category: "Actualidad espacial"
+related_image: https://pbs.twimg.com/media/EhHDuH7VoAAZtaw?format=jpg&name=medium
 ---
 > En este post comento acerca del nuevo motor Raptor de la empresa SpaceX, en su variante optimizada para el vacío.
 
@@ -11,7 +12,7 @@ category: "Actualidad espacial"
 <br />
 A la izquierda el modelo optimizado para operar a nivel del mar. El segundo optimizado para el vacío. <br />
 <br />
-La tobera cumple la función de dirigir los gases de la combustión hacia atrás. 1/n <span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/SpaceX/status/1302038129990279168">https://twitter.com/SpaceX/status/1302038129990279168</a></blockquote></span></span></p>
+La tobera cumple la función de dirigir los gases de la combustión hacia atrás. 1/n <span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/SpaceX/status/1302038129990279168">https://twitter.com/SpaceX/status/1302038129990279168</a></blockquote></span></p>
     <p>La tobera ideal hace que el gas esté a la misma presión que el entorno. Si los gases salieran a mayor presión de la tobera, saldrían expandidos y eso no produce el empuje más eficiente posible (recordar ppio de acción/reacción) <span class="nop nop-end"> 2/</span></p>
     <p>Un ejemplo de esto pueden observarlo en cualquier lanzamiento. Presten atención a la salida de los gases a medida que el cohete sube...<br />
 <br />

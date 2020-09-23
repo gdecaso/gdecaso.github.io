@@ -116,6 +116,16 @@ video, img {
   margin-bottom: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+.entity-embed {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 150px;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -275,6 +285,7 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+    float: right;
   }
 }
 
@@ -298,6 +309,26 @@ div.post-categories {
 div.post-date {
   float: left;
   font-size: 70%;
+}
+
+// Thumbnail for each post
+img.thumbnail {
+  float: left;
+  margin-right: 20px;
+  clear: both;
+  width: 30%;
+}
+div.excerpt {
+  margin-left: 0px;
+  overflow: auto;
+  display: block;
+  blockquote {
+    margin: 0em .8em;
+  }  
+}
+.divider {
+  display: block;
+  clear: both;
 }
 
 // Pagination styling

@@ -1,6 +1,7 @@
 ---
 title: "#CuriosidadesEspaciales S01E11: El primer caminante espacial"
 category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/Eg8CWElXgAIitT8.png
 ---
 > En este episodio de #CuriosidadesEspaciales repasamos la vida de Alexei Leonov, el primer astronauta en realizar una caminata espacial.
 

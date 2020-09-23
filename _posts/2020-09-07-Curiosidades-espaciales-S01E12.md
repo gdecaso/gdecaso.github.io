@@ -1,6 +1,7 @@
 ---
 title: "#CuriosidadesEspaciales S01E12: Espacio Made in China"
 category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/EhVDRPHXcAMKRXd.png
 ---
 > En este episodio de #CuriosidadesEspaciales nos vamos del otro lado de la Gran Muralla para repasar la rica historia de la exploración espacial china.
 
@@ -71,8 +72,8 @@ Ya lo habían intentado en conjunto con los rusos en 2011, pero esa misión qued
     <p><span class="nop nop-start">20/ </span> Pero no todo es color de rosas. Hay mucha polémica alrededor de cómo los chinos manejan su programa espacial.<br />
 <br />
 Un ejemplo de esto es el “aterrizaje” de las primeras etapas de sus cohetes, que muchas veces impactan en zonas pobladas o cerca de ellas. 😢 <span class="entity-image"><a href="https://pbs.twimg.com/media/EhVEkf3WsAEABnY.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EhVEkf3WsAEABnY.png" data-src="https://pbs.twimg.com/media/EhVEkf3WsAEABnY.png"></a></span></p>
-    <p><span class="nop nop-start">21/ </span> Este es un ejemplo de 2018 <span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/AJ_FI/status/951713447338823680">https://twitter.com/AJ_FI/status/951713447338823680</a></blockquote></span></span></p>
-    <p><span class="nop nop-start">22/ </span> Y este es un ejemplo que ocurrió hace menos de una semana <span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/LaunchStuff/status/1302933386990891008">https://twitter.com/LaunchStuff/status/1302933386990891008</a></blockquote></span></span></p>
+    <p><span class="nop nop-start">21/ </span> Este es un ejemplo de 2018 <span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/AJ_FI/status/951713447338823680">https://twitter.com/AJ_FI/status/951713447338823680</a></blockquote></span></p>
+    <p><span class="nop nop-start">22/ </span> Y este es un ejemplo que ocurrió hace menos de una semana <span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/LaunchStuff/status/1302933386990891008">https://twitter.com/LaunchStuff/status/1302933386990891008</a></blockquote></span></p>
     <p><span class="nop nop-start">23/ </span> Sorprende ya que los chinos disponen de una amplia costa del Pacífico que podrían usar para lanzar sin pasar por arriba de zonas pobladas. 🤷‍♂️<br />
 <br />
 Esperemos que los chinos puedan mejorar sus medidas de seguridad y así seguir cosechando logros espaciales. <span class="entity-image"><a href="https://pbs.twimg.com/media/EhVE5h_XgAAITTA.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EhVE5h_XgAAITTA.png" data-src="https://pbs.twimg.com/media/EhVE5h_XgAAITTA.png"></a></span></p>

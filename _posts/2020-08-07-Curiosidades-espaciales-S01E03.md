@@ -1,6 +1,7 @@
 ---
 title: "#CuriosidadesEspaciales S01E03: Un motor increíble"
 category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/EewyaRsWsAAClJe.png
 ---
 
 > En este episodio de #CuriosidadesEspaciales hablamos de la increíble historia del RD-180: un motor ruso que se usa para lanzar satélites yanquis... que espían a Rusia.

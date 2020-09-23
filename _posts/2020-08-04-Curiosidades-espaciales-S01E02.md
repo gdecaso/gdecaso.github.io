@@ -1,6 +1,7 @@
 ---
 title: "#CuriosidadesEspaciales S01E02: Los rusos golpean primero"
 category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/Eem9E5-WkAcFhpW.png
 ---
 > En este episodio de #CuriosidadesEspaciales repasamos la vida de Sergei Korolev, el padre de la cosmonáutica soviética.
 

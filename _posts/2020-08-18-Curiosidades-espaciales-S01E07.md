@@ -1,6 +1,7 @@
 ---
 title: "#CuriosidadesEspaciales S01E07: Chatarra espacial"
 category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/EfpzqrkXYAE5ink.jpg
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la problemática de la basura en órbita, y las dificultades para la astronomía por culpa del proyecto Starlink.
 
@@ -35,7 +36,7 @@ Repasemos esto: 1 de cada 3 satélites activos en LEO es parte de la red StarLin
     <p><span class="nop nop-start">9/ </span> Pero eso no es nada. SpaceX ya tiene aprobación para hacer crecer StarLink hasta los 12 mil satélites. ¡Y tiene un pedido pendiente de aprobación para sumar 30 mil satélites más!<br />
 <br />
 Y ni hablar del sinfín de CubeSats, que será tema para otro hilo 🧵. <span class="entity-image"><a href="https://pbs.twimg.com/media/EfpzlAFWoAAHrED.png" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfpzlAFWoAAHrED.png" data-src="https://pbs.twimg.com/media/EfpzlAFWoAAHrED.png"></a></span></p>
-    <p><span class="nop nop-start">10/ </span> Se acuerdan que hablamos de reusabilidad un par de hilos atrás (<span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1293607594540638211">https://twitter.com/guidodecaso/status/1293607594540638211</a></blockquote></span></span>). Resulta que gran parte de los Falcon 9 son reutilizados para lanzar satélites StarLink de a 60 por vez. De hecho, hoy mismo estarán lanzando la onceava tanda.</p>
+    <p><span class="nop nop-start">10/ </span> Se acuerdan que hablamos de reusabilidad un par de hilos atrás (<span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1293607594540638211">https://twitter.com/guidodecaso/status/1293607594540638211</a></blockquote></span>). Resulta que gran parte de los Falcon 9 son reutilizados para lanzar satélites StarLink de a 60 por vez. De hecho, hoy mismo estarán lanzando la onceava tanda.</p>
     <p><span class="nop nop-start">11/<br />
 </span> - ¿StarLink? ¿Skynet? ¿¿Qué es eso?? <br />
 - El objetivo de la red StarLink es brindar conectividad de Internet a escala global. <span class="entity-image"><a href="https://pbs.twimg.com/media/EfpzqrkXYAE5ink.jpg" target="_blank"><img alt="Image" src="https://pbs.twimg.com/media/EfpzqrkXYAE5ink.jpg" data-src="https://pbs.twimg.com/media/EfpzqrkXYAE5ink.jpg"></a></span></p>

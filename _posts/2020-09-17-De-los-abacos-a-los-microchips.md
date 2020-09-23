@@ -1,6 +1,7 @@
 ---
 title: De los ábacos a los microchips
 category: "Historia de la computación"
+related_image: https://pbs.twimg.com/media/EiJCOl6XkAELVzF.jpg
 ---
 > Un repaso a la velocidad de la luz desde los antíguos ábacos a los increíbles microchips.
 

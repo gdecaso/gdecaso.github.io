@@ -20,10 +20,16 @@ layout: default
       </div>
       <br>
 
-      <div class="entry">
+      {% if post.related_image %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+          <img class="thumbnail" src="{{ post.related_image }}" alt="{{ post.title }}">
+      </a>
+      {% endif %}
+      <div class="excerpt">
         {{ post.excerpt }}
       </div>
 
+      <br class="divider">
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer más</a>
     </article>
   {% endfor %}

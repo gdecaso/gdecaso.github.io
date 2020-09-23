@@ -1,6 +1,7 @@
 ---
 title: "#CuriosidadesEspaciales S01E09: De Argentina a las estrellas"
 category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/EgNZSeRWoAEaIGm.png
 ---
 > En este episodio de #CuriosidadesEspaciales te cuento sobre la rica y poco conocida historia de los lanzadores "Made in Argentina".
 

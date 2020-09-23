@@ -1,6 +1,7 @@
 ---
 title: "#CuriosidadesEspaciales S01E14: Al espacio en guayabera"
 category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/Eh-dOoMWsAgIDGo.png
 ---
 > En esta entrega de #CuriosidadesEspaciales te cuento sobre el primer astronauta latinoamericano: el cubano Arnaldo Tamayo Méndez.
 

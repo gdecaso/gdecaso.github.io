@@ -1,6 +1,7 @@
 ---
 title: "#NerdeadasCósmicas: la maniobra de Hohmann"
 category: "NerdeadasCósmicas"
+related_image: https://pbs.twimg.com/media/EiiRIT5XYAMOXjE.jpg
 ---
 > En este hilo de #NerdeadasCósmicas exploramos cómo la ciencia ficción inspiró una maniobra espacial que se usa para visitar la Estación Espacial Internacional, ¡y para ir a Marte!
 
