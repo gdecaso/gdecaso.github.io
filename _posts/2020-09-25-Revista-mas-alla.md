@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "Retrofuturismo: revista 'Más allá'"
+category: "Fotografía/gráfica"
+related_image: https://pbs.twimg.com/media/EixI3pFWAAM7iJm.jpg
 ---
-> ___TODO resumen
+> Breve repaso de "Más Allá", la revista argentina de ciencia ficción y divulgación científica que se publicó entre 1953 y 1957.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1309505603572846593)*
 
 <div class="card-tweets" dir="auto">
     <p>No sé ustedes, pero cuando era chico yo me crié leyendo revistas y folletines que evocaban la exploración espacial. <br />
