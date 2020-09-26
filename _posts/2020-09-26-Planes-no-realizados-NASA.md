@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "Retrofuturismo: planes no realizados de la NASA"
+category: "Fotografía/gráfica"
+related_image: https://pbs.twimg.com/media/Ei2TLYFWoAEexKn?format=png&name=small
 ---
-> ___TODO resumen
+> Conceptos y planes de la NASA que nunca se materializaron, pero nos dejaron hermosas imágenes retrofuturistas.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1309864887724707841)*
 
 <div class="card-tweets" dir="auto">
     <p>Misiones que nunca se hicieron, naves que nunca se construyeron... este sábado está para un hilo con ilustraciones retrofuturistas de la NASA. 🚀👇<br />
