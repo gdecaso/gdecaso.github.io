@@ -69,7 +69,7 @@ Y así se hizo. Lugar donde hoy hay un mausoleo.</p>
     <p><span class="nop nop-start">18/ </span> Los años que siguieron la vieron muy ocupada, recibiéndose de ingeniera aeronáutica y creciendo en los rangos de la Fuerza Aérea.<br />
 <br />
 Participó en congresos por la paz, y en mitines de la ONU por los derechos de la mujer. Llegó incluso a ser parte del Comité Central la URSS. <span class="row justify-content-center entity-multiple-2"><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/Ei8g4B4WAAUlnuT.png" target="_blank"><img src="https://pbs.twimg.com/media/Ei8g4B4WAAUlnuT.png"></a></span></span><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/Ei8g4DDXsAMs6GC.png" target="_blank"><img src="https://pbs.twimg.com/media/Ei8g4DDXsAMs6GC.png"></a></span></span></span></p>
-    <p><span class="nop nop-start">19/ </span> Valentina siempre soñó con volver al espacio. Pero en 1968 Yuri Gagarin, héroe soviético perdió la vida en un vuelo de entrenamiento.<br />
+    <p><span class="nop nop-start">19/ </span> Valentina siempre soñó con volver al espacio. Pero en 1968 Yuri Gagarin, héroe soviético, perdió la vida en un vuelo de entrenamiento.<br />
 <br />
 Los soviéticos no podían permitirse perderla, y por eso Valentina nunca volvió a volar. <span class="entity-image"><a href="https://pbs.twimg.com/media/Ei8g499XYAEPmKs.jpg" target="_blank"><img src="https://pbs.twimg.com/media/Ei8g499XYAEPmKs.jpg"></a></span></p>
     <p><span class="nop nop-start">20/ </span> Tras la caída de la Unión Soviética, Valentina se dedicó a la política. En 2011 obtuvo una banca en la Duma Estatal, y en 2016 fue reelecta y sigue en su cargo.<br />
