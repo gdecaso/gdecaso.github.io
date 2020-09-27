@@ -63,7 +63,7 @@ Se dice que el desfile en Moscú tuvo un millón de flores. <span class="entity-
 Las autoridades soviéticas la hubieran mantenido en gira por un año, pero a principios de 1964 Valentina estaba embarazada y logró un merecido descanso. <span class="row justify-content-center entity-multiple-2"><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/Ei8g3JqWkAEYk0U.png" target="_blank"><img src="https://pbs.twimg.com/media/Ei8g3JqWkAEYk0U.png"></a></span></span><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/Ei8g3KZWsAM_xZf.jpg" target="_blank"><img src="https://pbs.twimg.com/media/Ei8g3KZWsAM_xZf.jpg"></a></span></span></span></p>
     <p><span class="nop nop-start">17/ </span> Todo el mundo amaba a Valentina, y los líderes soviéticos le preguntaron qué podían hacer para agradecerle por sus tareas.<br />
 <br />
-Su pedidofue que la ayudaran a encontrar la tumba de su padre, perdido en esa guerra invernal de 1939.<br />
+Su pedido fue que la ayudaran a encontrar la tumba de su padre, perdido en esa guerra invernal de 1939.<br />
 <br />
 Y así se hizo. Lugar donde hoy hay un mausoleo.</p>
     <p><span class="nop nop-start">18/ </span> Los años que siguieron la vieron muy ocupada, recibiéndose de ingeniera aeronáutica y creciendo en los rangos de la Fuerza Aérea.<br />
