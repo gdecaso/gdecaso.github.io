@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "#CuriosidadesEspaciales S01E15: La primera mujer en el espacio"
+category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/Ei8gu50WsAAWzMZ.jpg
 ---
-> ___TODO resumen
+> En esta edición de #CuriosidadesEspaciales repasamos la historia de Valentina Tereshkova, ¡la primera mujer astronauta!
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1310302014040145926)*
 
 <div class="card-tweets" dir="auto">
     <p>Nacida en la pobreza, tocó las estrellas.<br />
