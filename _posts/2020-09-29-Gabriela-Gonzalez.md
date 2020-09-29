@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "Conociendo a Gabriela González"
+category: "Biografías"
+related_image: https://pbs.twimg.com/media/EjFu3UnX0AcuV3B.png
 ---
-> ___TODO resumen
+> Repasamos la vida de esta científica argentina, que tanto ha demostrado que Einstein estaba equivocado como que tenía razón.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1310955918465601536)*
 
 <div class="card-tweets" dir="auto">
     <p>"Me uní a la física porque creía que esa ciencia podía responder todas las preguntas, pero más tarde me di cuenta que la física no tiene una respuesta para todo sino que crea más preguntas que respuestas." 🤯<br />
