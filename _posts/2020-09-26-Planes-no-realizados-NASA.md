@@ -1,7 +1,7 @@
 ---
 title: "Retrofuturismo: planes no realizados de la NASA"
 category: "Fotografía/gráfica"
-related_image: https://pbs.twimg.com/media/Ei2TLYFWoAEexKn?format=png&name=small
+related_image: https://pbs.twimg.com/media/Ei2TLYFWoAEexKn.png
 ---
 > Conceptos y planes de la NASA que nunca se materializaron, pero nos dejaron hermosas imágenes retrofuturistas.
 
