@@ -1,9 +1,9 @@
 ---
 title: De los ábacos a los microchips
-category: "Historia de la computación"
+category: "SoftwareQueNoMuerde"
 related_image: https://pbs.twimg.com/media/EiJCOl6XkAELVzF.jpg
 ---
-> Un repaso a la velocidad de la luz desde los antíguos ábacos a los increíbles microchips.
+> En la primera entrega de #SoftwareQueNoMuerde, un repaso a la velocidad de la luz desde los antíguos ábacos a los increíbles microchips.
 
 *Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1306704133005758465)*
 
