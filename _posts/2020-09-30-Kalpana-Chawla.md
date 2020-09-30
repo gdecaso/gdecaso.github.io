@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "Conociendo a Kalpana Chawla"
+category: "Biografías"
+related_image: https://pbs.twimg.com/media/EjMKMb7XgAEbvKh.png
 ---
-> ___TODO resumen
+> Breve repaso por la vida de Kalpana Chawla, la primera astronauta india.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1311403235022983169)*
 
 <div class="card-tweets" dir="auto">
     <p>Mañana jueves se lanza al espacio una misión muy especial.<br />
