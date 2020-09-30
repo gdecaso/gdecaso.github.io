@@ -5,7 +5,7 @@ related_image: https://pbs.twimg.com/media/EjMKMb7XgAEbvKh.png
 ---
 > Breve repaso por la vida de Kalpana Chawla, la primera astronauta india.
 
-*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1311403235022983169)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1311403132342145025)*
 
 <div class="card-tweets" dir="auto">
     <p>Mañana jueves se lanza al espacio una misión muy especial.<br />
