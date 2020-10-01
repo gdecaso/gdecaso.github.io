@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: Ciudades de software
+category: "ElSoftwareNoMuerde"
+related_image: https://pbs.twimg.com/media/EjRNLx4XcAEk8jy.png
 ---
-> ___TODO resumen
+> En esta entrega de #ElSoftwareNoMuerde, te cuento sobre una técnica que nos permite ver al software como a una ciudad virtual.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1311758267383771140)*
 
 <div class="card-tweets" dir="auto">
     <p>Mucho se habla sobre que el software se está comiendo al mundo... ¡y hay mucha verdad en eso!<br />
