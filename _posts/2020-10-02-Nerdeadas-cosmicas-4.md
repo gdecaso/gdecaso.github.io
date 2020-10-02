@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "#NerdeadasCósmicas: manteniéndonos en órbita"
+category: "NerdeadasCósmicas"
+related_image: https://pbs.twimg.com/tweet_video_thumb/EjW9xH7XcAAFwIz.jpg
 ---
-> ___TODO resumen
+> En esta entrega de #NerdeadasCósmicas te cuento por qué la Estación Espacial Internacional todos los días se cae un poquito.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1312163539042226176)*
 
 <div class="card-tweets" dir="auto">
     <p>La Estación Espacial Internacional da unas 16 vueltas al mundo por día... ¿pero sabías que si no se la mantuviera adecuadamente, caería y se desintegraría en la atmósfera?<br />
