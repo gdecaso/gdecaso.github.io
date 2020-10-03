@@ -10,7 +10,7 @@ related_image: https://pbs.twimg.com/media/EhaAxD0WoAgWhGW.jpg
 <div class="card-tweets" dir="auto">
     <p>Si el espacio queda "para arriba", ¿por qué los cohetes cuando despegan salen para un costado?<br />
 <br />
-Sale un breve hilo de <a class="entity-hashtag" href="/hashtag/NerdeadasC%C3%B3smicas">#NerdeadasCósmicas</a> 🤓🌌 <span class="entity-video"><video controls poster="https://pbs.twimg.com/ext_tw_video_thumb/1303360605651374085/pu/img/i5MfgHR2nwfWee-A.jpg"><source src="https://video.twimg.com/ext_tw_video/1303360605651374085/pu/vid/1280x720/JQzGfQ06QSVTjmxi.mp4?tag=10" type="video/mp4"><br />
+Sale un breve hilo de <a class="entity-hashtag" href="/hashtag/NerdeadasC%C3%B3smicas">#NerdeadasCósmicas</a> 🤓🌌 <span class="entity-video"><video autoplay muted loop controls poster="https://pbs.twimg.com/ext_tw_video_thumb/1303360605651374085/pu/img/i5MfgHR2nwfWee-A.jpg"><source src="https://video.twimg.com/ext_tw_video/1303360605651374085/pu/vid/1280x720/JQzGfQ06QSVTjmxi.mp4?tag=10" type="video/mp4"><br />
 <source src="https://video.twimg.com/ext_tw_video/1303360605651374085/pu/pl/vhdtHr5xHdVp65vQ.m3u8?tag=10" type="application/x-mpegURL"> Sorry, your browser doesn't support embedded videos<br><img alt="" src="https://pbs.twimg.com/ext_tw_video_thumb/1303360605651374085/pu/img/i5MfgHR2nwfWee-A.jpg"></video></span></p>
     <p>Es cierto que el espacio está "para arriba". De hecho, la frontera entre la atmósfera terrestre y el espacio exterior está en lo que se llama la línea de Kármán, 100 km sobre el nivel del mar.<br />
 <br />

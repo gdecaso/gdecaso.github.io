@@ -30,7 +30,7 @@ Pero en la vida real, necesitamos escribir este programa en un lenguaje que la c
 <br />
 Todos los años surgen nuevos, y hay interminables debates en nuestra comunidad sobre cuál preferimos usar. <br />
 <br />
-Se ha librado más de una guerra religiosa al respecto. <span class="entity-video"><video controls poster="https://pbs.twimg.com/ext_tw_video_thumb/1311758299289866240/pu/img/eXLMONb7hAcbYgnR.jpg"><source src="https://video.twimg.com/ext_tw_video/1311758299289866240/pu/vid/498x210/ESFHfVRqvwQYoCIE.mp4?tag=10" type="video/mp4"><br />
+Se ha librado más de una guerra religiosa al respecto. <span class="entity-video"><video autoplay muted loop controls poster="https://pbs.twimg.com/ext_tw_video_thumb/1311758299289866240/pu/img/eXLMONb7hAcbYgnR.jpg"><source src="https://video.twimg.com/ext_tw_video/1311758299289866240/pu/vid/498x210/ESFHfVRqvwQYoCIE.mp4?tag=10" type="video/mp4"><br />
 <source src="https://video.twimg.com/ext_tw_video/1311758299289866240/pu/pl/nDg67jwpWjzeMQGW.m3u8?tag=10" type="application/x-mpegURL"><img alt="Video Poster" src="https://pbs.twimg.com/ext_tw_video_thumb/1311758299289866240/pu/img/eXLMONb7hAcbYgnR.jpg"></video></span></p>
     <p><span class="nop nop-start">5/ </span> Pero casi todos los lenguajes de programación comparten una característica: se los escribe en un editor de texto.<br />
 <br />
@@ -53,7 +53,7 @@ Ya existían técnicas para visualizar software en 3D, pero esta es la primera q
 - Un archivo con muchos datos y pocas funciones se visualiza como un estacionamiento.<br />
 - Un archivo con muchas funciones y pocos datos se ve como un rascacielos.<br />
 - Y así... <span class="entity-image"><a href="https://pbs.twimg.com/media/EjRNRwmXkAAQmWl.png" target="_blank"><img src="https://pbs.twimg.com/media/EjRNRwmXkAAQmWl.png"></a></span></p>
-    <p><span class="nop nop-start">11/ </span> Esta idea se aplicó a varios lenguajes de programación y fue evolucionado hasta llegar a ciudades interactivas que podemos recorrer y hasta "pintar" según distintos criterios que nos sean de interés. <span class="entity-video"><video controls poster="https://pbs.twimg.com/ext_tw_video_thumb/1311758371658371075/pu/img/sr9y5m-hij2pRp_Y.jpg"><source src="https://video.twimg.com/ext_tw_video/1311758371658371075/pu/pl/00DJHGjQyhGU8VS3.m3u8?tag=10" type="application/x-mpegURL"><br />
+    <p><span class="nop nop-start">11/ </span> Esta idea se aplicó a varios lenguajes de programación y fue evolucionado hasta llegar a ciudades interactivas que podemos recorrer y hasta "pintar" según distintos criterios que nos sean de interés. <span class="entity-video"><video autoplay muted loop controls poster="https://pbs.twimg.com/ext_tw_video_thumb/1311758371658371075/pu/img/sr9y5m-hij2pRp_Y.jpg"><source src="https://video.twimg.com/ext_tw_video/1311758371658371075/pu/pl/00DJHGjQyhGU8VS3.m3u8?tag=10" type="application/x-mpegURL"><br />
 <source src="https://video.twimg.com/ext_tw_video/1311758371658371075/pu/vid/704x360/1C0M_9LyZI1pDr5a.mp4?tag=10" type="video/mp4"><br />
 <source src="https://video.twimg.com/ext_tw_video/1311758371658371075/pu/vid/1408x720/6RuUdZIXdc3YKoM-.mp4?tag=10" type="video/mp4"><br />
 <source src="https://video.twimg.com/ext_tw_video/1311758371658371075/pu/vid/528x270/G8K_temlyDpQh-Z8.mp4?tag=10" type="video/mp4"><img alt="Video Poster" src="https://pbs.twimg.com/ext_tw_video_thumb/1311758371658371075/pu/img/sr9y5m-hij2pRp_Y.jpg"></video></span></p>
