@@ -7,11 +7,14 @@ name: "#CuriosidadesEspaciales"
 
 # Short bio or description (displayed in the header)
 description:
-  Curiosidades del mundo de la exploración espacial.
-  Tecnología, ciencia, política, historia, anécdotas...
+  Curiosidades de la exploración espacial.
+  Tecnología, ciencia, política, historia, anécdotas, biografías y más.
+  Desde los primeros pasos en la guerra fría a las misiones del futuro.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/gdecaso/gdecaso.github.io/master/images/gdecaso.png
+avatar: /images/gdecaso.png
+# URL of your logo
+logo: /images/logo.png
 
 #
 # Flags below are optional
