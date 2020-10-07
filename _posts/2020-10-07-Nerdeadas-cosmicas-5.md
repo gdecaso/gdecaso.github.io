@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "#NerdeadasCósmicas: manteniéndonos en órbita"
+category: "NerdeadasCósmicas"
+related_image: https://pbs.twimg.com/media/Ejw2gqSWoAI9pOy?format=jpg&name=medium
 ---
-> ___TODO resumen
+> En esta edición de #NerdeadasCósmicas te cuento por qué no cualquier lugar es un buen lugar para un lanzamiento.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1313985040989261829)*
 
 <div class="card-tweets" dir="auto">
     <p>¿Qué es lo que determina desde dónde lanzar un cohete? ¿Por qué la mayoría de lanzamientos son cerca del ecuador?<br />
