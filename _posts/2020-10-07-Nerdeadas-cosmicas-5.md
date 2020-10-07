@@ -1,5 +1,5 @@
 ---
-title: "#NerdeadasCósmicas: manteniéndonos en órbita"
+title: "#NerdeadasCósmicas: ¿Desde dónde lanzamos?"
 category: "NerdeadasCósmicas"
 related_image: https://pbs.twimg.com/media/Ejw2gqSWoAI9pOy?format=jpg&name=medium
 ---
