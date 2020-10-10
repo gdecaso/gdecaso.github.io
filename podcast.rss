@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <itunes:author><![CDATA[#CuriosidadesEspaciales]]></itunes:author>
+    <itunes:author>gdecaso@gmail.com</itunes:author>
+    <title><![CDATA[#CuriosidadesEspaciales]]></title>
+    <link>https://www.ivoox.com/podcast-curiosidadesespaciales_sq_f11070283_1.html</link>
+    <description><![CDATA[Curiosidades de la exploración espacial. Tecnología, ciencia, política, historia, anécdotas, biografías y más. Desde los primeros pasos en la guerra fría a las misiones del futuro.]]></description>
+    <language>es-ES</language>
+    <generator>iVoox</generator>
+    <image>
+      <url>https://static-1.ivoox.com/canales/4/5/1/4/3511602274154_XXL.jpg?ts=1602274207</url>
+      <title><![CDATA[#CuriosidadesEspaciales]]></title>
+      <link>https://www.ivoox.com/podcast-curiosidadesespaciales_sq_f11070283_1.html</link>
+    </image>
+    <atom:link href="https://ar.ivoox.com/es/curiosidadesespaciales_fg_f11070283_filtro_1.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="https://static-1.ivoox.com/canales/4/5/1/4/3511602274154_XXL.jpg?ts=1602274207" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology" />
+    <item>
+      <title><![CDATA[Trailer de #CuriosidadesEspaciales]]></title>
+      <link>https://www.ivoox.com/trailer-curiosidadesespaciales-audios-mp3_rf_57718568_1.html</link>
+      <enclosure url="https://www.ivoox.com/trailer-curiosidadesespaciales_mf_57718568_feed_1.mp3" type="audio/mpeg" length="673585" />
+      <description><![CDATA[Hace mucho tiempo, en un podcast muy, muy lejano... Es un período de guerra fría. Los soviéticos ganan las primeras batallas con el Sputnik y el vuelo orbital de Gagarin. Pero los norteamericanos no quieren quedarse atrás y ponen en marcha el PROYECTO APOLLO, un ambicioso plan para la conquista de la Luna. Pero tras esta época dorada, vinieron largos años de estancamiento y desinterés. El Siglo XXI trajo a nuevos actores como China, y a nuevas empresas como SpaceX y RocketLab... así como el PROYECTO ARTEMIS, que nos promete regresar a la Luna. En este podcast discutiremos y exploraremos el rico pasado y el prometedor futuro de la exploración espacial... &#127925; Créditos de la música &#128071; "Scott Buckley - Titan [Epic]" is under a Creative Commons license (CC-BY) Music promoted by BreakingCopyright: https://youtu.be/8mdDft5-q28]]></description>
+      <pubDate>Fri, 09 Oct 2020 22:09:24 +0200</pubDate>
+      <itunes:duration>01:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid>https://www.ivoox.com/57718568</guid>
+      <itunes:image href="https://static-1.ivoox.com/canales/4/5/1/4/3511602274154_XXL.jpg?ts=1602274207" />
+    </item>
+  </channel>
+</rss>
