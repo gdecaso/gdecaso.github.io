@@ -21,6 +21,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
     <item>
+      <title><![CDATA[Episodio I - El espacio y la Internet]]></title>
+      <link>https://www.ivoox.com/episodio-i-el-espacio-internet-audios-mp3_rf_57741188_1.html</link>
+      <enclosure url="https://www.ivoox.com/episodio-i-el-espacio-internet_mf_57741188_feed_1.mp3" type="audio/mpeg" length="12976450"/>
+      <description><![CDATA[Una charla a fondo con Juan Andrés Fraire (@TotinFraire), experto en telecomunicaciones espaciales.
+
+      ¿Qué es la Internet interplanetaria? ¿Cómo viajan los datos en nuestro planeta? ¿Qué es Starlink y qué impacto tendrá en la astronomía? ¿Está SpaceX encaminada a una bancarrota? ¿Hay una nueva carrera espacial entre EEUU y China?]]></description>
+      <pubDate>Sun, 11 Oct 2020 00:50:38 +0200</pubDate>
+      <itunes:duration>27:02</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid>https://www.ivoox.com/57741188</guid>
+      <itunes:image href="https://static-1.ivoox.com/canales/4/5/1/4/3511602274154_XXL.jpg?ts=1602274207"/>
+    </item>
+    <item>
       <title><![CDATA[Trailer de #CuriosidadesEspaciales]]></title>
       <link>https://www.ivoox.com/trailer-curiosidadesespaciales-audios-mp3_rf_57718568_1.html</link>
       <enclosure url="https://www.ivoox.com/trailer-curiosidadesespaciales_mf_57718568_feed_1.mp3" type="audio/mpeg" length="673585" />
