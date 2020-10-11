@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <itunes:author><![CDATA[#CuriosidadesEspaciales]]></itunes:author>
+    <itunes:author><![CDATA[Curiosidades Espaciales]]></itunes:author>
     <itunes:owner>
       <itunes:email>gdecaso@gmail.com</itunes:email>
     </itunes:owner>
-    <title><![CDATA[#CuriosidadesEspaciales]]></title>
+    <title><![CDATA[Curiosidades Espaciales]]></title>
     <link>https://www.ivoox.com/podcast-curiosidadesespaciales_sq_f11070283_1.html</link>
     <description><![CDATA[Curiosidades de la exploración espacial. Tecnología, ciencia, política, historia, anécdotas, biografías y más. Desde los primeros pasos en la guerra fría a las misiones del futuro.]]></description>
     <language>es-ES</language>
     <generator>iVoox</generator>
     <image>
       <url>https://static-1.ivoox.com/canales/4/5/1/4/3511602274154_XXL.jpg?ts=1602274207</url>
-      <title><![CDATA[#CuriosidadesEspaciales]]></title>
+      <title><![CDATA[Curiosidades Espaciales]]></title>
       <link>https://www.ivoox.com/podcast-curiosidadesespaciales_sq_f11070283_1.html</link>
     </image>
     <atom:link href="https://ar.ivoox.com/es/curiosidadesespaciales_fg_f11070283_filtro_1.xml" rel="self" type="application/rss+xml" />
