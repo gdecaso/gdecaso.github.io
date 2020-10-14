@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "#CuriosidadesEspaciales S01E16: ¿Fuimos realmente a la Luna?"
+category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/EkUgrpVWoAUqrNg.jpg
 ---
-> ___TODO resumen
+> Aún hoy día muchísima gente cree que la humanidad no pisó la Luna. Tomémosnos unos minutos y usemos la ciencia para aplastar estas teorías conspiratorias ridículas.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1316494406405545985)*
 
 <div class="card-tweets" dir="auto">
     <p>Increíble que aún al día de hoy *mucha* gente cree que el programa Apollo fue todo una farsa.<br />
