@@ -21,7 +21,20 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
     <item>
-      <title><![CDATA[Episodio I - El espacio y la Internet]]></title>
+      <title><![CDATA[ Episodio II - Yendo a Marte: una entrevista a Miguel San Martín ]]></title>
+      <link>https://www.ivoox.com/episodio-ii-yendo-a-marte-entrevista-audios-mp3_rf_58097162_1.html</link>
+      <enclosure url="https://www.ivoox.com/episodio-ii-yendo-a-marte-entrevista_mf_58097162_feed_1.mp3" type="audio/mpeg" length="28068510"/>
+      <description><![CDATA[ Una entrevista al ingeniero argentino de la NASA Miguel San Martín (@MigOnMars), experto en guiado y navegación y veterano de diversas misiones al planeta rojo. ¿Cuáles son los desafíos para aterrizar en Marte? ¿Por qué Pathfinder usaba airbags pero Curiosity una grúa aérea? ¿Cómo determinan en qué zonas es seguro aterrizar? ¿Qué son los &#8220;7 minutos del terror&#8221;? ¡Todo esto y mucho más en una charla a fondo! Miguel San Martín en Twitter: https://twitter.com/MigOnMars ]]></description>
+      <pubDate>Sun, 18 Oct 2020 22:37:52 +0200</pubDate>
+      <itunes:duration>58:28</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid>https://www.ivoox.com/58097162</guid>
+      <itunes:image href="https://static-1.ivoox.com/canales/4/5/1/4/3511602274154_XXL.jpg?ts=1602274207"/>
+    </item>
+    <item>
+      <title><![CDATA[Episodio I - El espacio y la Internet: una entrevista a Juan Andrés Fraire]]></title>
       <link>https://www.ivoox.com/episodio-i-el-espacio-internet-audios-mp3_rf_57741188_1.html</link>
       <enclosure url="https://www.ivoox.com/episodio-i-el-espacio-internet_mf_57741188_feed_1.mp3" type="audio/mpeg" length="12976450"/>
       <description><![CDATA[Una charla a fondo con Juan Andrés Fraire (@TotinFraire), experto en telecomunicaciones espaciales.
