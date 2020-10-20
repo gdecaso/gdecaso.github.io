@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "Reseña de la Apollo/Soyuz"
+category: "Misiones históricas"
+related_image: https://pbs.twimg.com/media/EkzLelrXYAEVq3B.png
 ---
-> ___TODO resumen
+> Celebramos la última misión Apollo, una gota de esperanza en el medio del desierto de hostilidades de la Guerra Fría.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1318652353436897280)*
 
 <div class="card-tweets" dir="auto">
     <p>En el medio de la Guerra Fría hubo un pequeñísimo paréntesis en el que soviéticos y yanquis dejaron de lado las diferencias. Bebieron whisky, bebieron vodka, y se abrazaron... ¡en el espacio! 🥃🌌<br />
@@ -48,8 +47,8 @@ Podemos ver en esta imagen también a Valentina Tereshkova, primera mujer en el 
     <p><span class="nop nop-start">20/ </span> El 21 de julio volvió la Soyuz y el 25 de julio volvió la cápsula Apollo. Si bien la Soyuz siguió evolucionando y aún al día de hoy sigue volando, la Apollo nunca más voló.<br />
 <br />
 Lo que siguió para EEUU fue la era del Transbordador, pero eso será tema para otro hilo. 🖖 <span class="row justify-content-center entity-multiple-2"><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/EkzLfNpX0AYl3ZD.png" target="_blank"><img src="https://pbs.twimg.com/media/EkzLfNpX0AYl3ZD.png"></a></span></span><span class="col-md-6"><span class="entity-image"><a href="https://pbs.twimg.com/media/EkzLfOdWMAAtZGJ.jpg" target="_blank"><img src="https://pbs.twimg.com/media/EkzLfOdWMAAtZGJ.jpg"></a></span></span></span></p>
-    <p>PD1: Más sobre Leonov en mi hilo homenaje <span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1301262610818572288">https://twitter.com/guidodecaso/status/1301262610818572288</a></blockquote></span></span></p>
-    <p>PD2: Más sobre Tereshkova en este otro hilo homenaje <span class="entity-embed"><span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1310302014040145926">https://twitter.com/guidodecaso/status/1310302014040145926</a></blockquote></span></span></p>
+    <p>PD1: Más sobre Leonov en mi hilo homenaje <span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1301262610818572288">https://twitter.com/guidodecaso/status/1301262610818572288</a></blockquote></span></p>
+    <p>PD2: Más sobre Tereshkova en este otro hilo homenaje <span class="twitter-player"><blockquote class="twitter-tweet" data-conversation="none" data-align="center" data-dnt="true"><a href="https://twitter.com/guidodecaso/status/1310302014040145926">https://twitter.com/guidodecaso/status/1310302014040145926</a></blockquote></span></p>
     <p><a class="entity-mention entity-mention-first" href="https://twitter.com/threadreaderapp"></a></p>
 </div>
 
