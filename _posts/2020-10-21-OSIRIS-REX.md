@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: La sonda OSIRIS-REX capturó regolito del asteroide Bennu
+category: "Actualidad espacial"
+related_image: https://pbs.twimg.com/media/Ek3JlkhXUAQILa2?format=png&name=medium
 ---
-> ___TODO resumen
+> La NASA ayer posó una sonda sobre el asteroide Bennu por 5 segundos y capturó regolito de su superficie. Te cuento brevemente sobre este logro.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1318934889614422018)*
 
 <div class="card-tweets" dir="auto">
     <p>Ayer la <a class="entity-mention" href="https://twitter.com/NASA">@NASA</a> logró algo impresionante, capturó regolito de un asteroide con una técnica llamada "touch and go" (toco y me voy). La nave <a class="entity-mention" href="https://twitter.com/OSIRISREx">@OSIRISREx</a> se posó durante pocos segundos en el asteroide <a class="entity-hashtag" href="/hashtag/Bennu">#Bennu</a>, prendió una especie de aspiradora, y luego volvió a alejarse. 1/6 <span class="entity-image"><a href="https://pbs.twimg.com/media/Ek3JlkhXUAQILa2.png" target="_blank"><img src="https://pbs.twimg.com/media/Ek3JlkhXUAQILa2.png"></a></span></p>
