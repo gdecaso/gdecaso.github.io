@@ -21,6 +21,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
     <item>
+      <title><![CDATA[ Episodio III - La nueva carrera espacial: entrevista a Diego Córdova ]]></title>
+      <link>https://www.ivoox.com/episodio-iii-la-nueva-carrera-espacial-entrevista-audios-mp3_rf_58454885_1.html</link>
+      <enclosure url="https://www.ivoox.com/episodio-iii-la-nueva-carrera-espacial-entrevista_mf_58454885_feed_1.mp3" type="audio/mpeg" length="12976450"/>
+      <description><![CDATA[ Una charla con el periodista especializado en el espacio Diego Córdova (@dcordovaok). ¿Hay una nueva carrera espacial? ¿Qué diferencias hay entre el programa Apollo y el programa Artemis? ¿Qué rol juegan los privados en su nueva relación con la NASA? ¿SpaceX es el favorito? Diego Córdova en Twitter: https://twitter.com/dcordovaok ]]></description>
+      <pubDate>Mon, 26 Oct 2020 18:21:08 +0100</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>27:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid>https://www.ivoox.com/58454885</guid>
+      <itunes:image href="https://static-1.ivoox.com/canales/4/5/1/4/3511602274154_XXL.jpg?ts=1602274207"/>
+    </item>
+    <item>
       <title><![CDATA[ Episodio II - Yendo a Marte: una entrevista a Miguel San Martín ]]></title>
       <link>https://www.ivoox.com/episodio-ii-yendo-a-marte-entrevista-audios-mp3_rf_58097162_1.html</link>
       <enclosure url="https://www.ivoox.com/episodio-ii-yendo-a-marte-entrevista_mf_58097162_feed_1.mp3" type="audio/mpeg" length="28068510"/>
