@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: 20 datos curiosos por los 20 años de presencia humana ininterrumpida en el espacio
+category: "Actualidad espacial"
+related_image: https://pbs.twimg.com/media/ElxIB3OWoAkX2WU?format=jpg&name=medium
 ---
-> ___TODO resumen
+> La Estación Espacial Internacional cumple este lunes sus primeros 20 años de presencia humana ininterrumpida. Repasamos 20 datos curiosos sobre la nave más grande de la historia.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1323011444091342854)*
 
 <div class="card-tweets" dir="auto">
     <p>Este lunes 2/nov se cumplen exactamente 20 años de presencia humana ininterrumpida en la Estación Espacial Internacional (<a class="entity-mention" href="https://twitter.com/Space_Station">@Space_Station</a>).<br />
