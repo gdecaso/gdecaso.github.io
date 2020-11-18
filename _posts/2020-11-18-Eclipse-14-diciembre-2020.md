@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: Eclipse del 14 de diciembre de 2020 en Argentina y Chile
+category: "Actualidad espacial"
+related_image: https://pbs.twimg.com/media/EnIo0zPXcAMduqF?format=jpg&name=medium
 ---
-> ___TODO resumen
+> En menos de un mes quienes vivimos en Argentina y Chile podremos disfrutar de un evento astronómico único: un eclipse solar. ¡En este artículo te cuento todos los detalles para que no te lo pierdas!
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1329169695556165640)*
 
 <div class="card-tweets" dir="auto">
     <p>En menos de un mes tendremos un espectacular eclipse solar visitando el territorio argentino 🇦🇷 y chileno 🇨🇱. <br />
