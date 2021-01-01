@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "#CuriosidadesEspaciales S02E01: ¿Quién baja primero?"
+category: "CuriosidadesEspaciales"
+related_image: https://pbs.twimg.com/media/EqrIF3-W8AIGWAl.png
 ---
-> ___TODO resumen
+> Repasamos por qué en un universo paralelo podría haber sido Buzz Aldrin el primer humano en pisar la Luna.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1345117352543854594)*
 
 <div class="card-tweets" dir="auto">
     <p>Vamos con la primera perlita de <a class="entity-hashtag" href="/hashtag/CuriosiodadesEspaciales">#CuriosiodadesEspaciales</a> del 2021 🚀<br />
