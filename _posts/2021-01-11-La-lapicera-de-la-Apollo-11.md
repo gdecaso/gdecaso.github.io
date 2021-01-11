@@ -1,12 +1,11 @@
 ---
-title: ___TODO
-category: ___TODO
-related_image: ___TODO
-published: false # ___TODO borrar esta línea
+title: "La lapicera de la Apollo 11"
+category: "Misiones históricas"
+related_image: https://pbs.twimg.com/media/ErZmLzTXIAEPKV1.jpg
 ---
-> ___TODO resumen
+> La Apollo 11 casi termina en fracaso. Fue salvada de manera inesperada por un sencillo elemento que todos tenemos en nuestras casas.
 
-*Originalmente publicado en [Twitter](___TODO)*
+*Originalmente publicado en [Twitter](https://twitter.com/guidodecaso/status/1348378163399843845)*
 
 <div class="card-tweets" dir="auto">
     <p>La misión Apollo 11 es famosa por ser la primera en llegar a la Luna. Pero casi se vuelve infame por no poder regresar.<br />
